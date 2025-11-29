@@ -17,7 +17,7 @@
   },
   {
     "id": "mv-003",
-    "title": "Which actor played Indiana Jones in the 1981 film 'Raiders of the Lost Ark'?",
+    "title": "Which actor played Indiana Jones in the 1981 film Raiders of the Lost Ark?",
     "code": "",
     "options": ["Tom Selleck", "Harrison Ford", "Michael Douglas", "Kurt Russell"],
     "correctIndex": 1,
@@ -27,7 +27,7 @@
     "id": "mv-004",
     "title": "Which 1985 film features a time machine built from a DeLorean sports car?",
     "code": "",
-    "options": ["The Terminator", "Tron", "Bill & Ted's Excellent Adventure", "Back to the Future"],
+    "options": ["The Terminator", "Tron", "Bill & Teds Excellent Adventure", "Back to the Future"],
     "correctIndex": 3,
     "explanation": "Back to the Future (1985) features a time machine built from a modified DeLorean car."
   },
@@ -35,7 +35,7 @@
     "id": "mv-005",
     "title": "Which animated movie was Pixar’s first feature-length film, released in 1995?",
     "code": "",
-    "options": ["Toy Story", "A Bug's Life", "Finding Nemo", "Monsters, Inc."],
+    "options": ["Toy Story", "A Bugs Life", "Finding Nemo", "Monsters, Inc."],
     "correctIndex": 0,
     "explanation": "Toy Story (1995) was Pixar’s first full-length feature film and the first entirely computer-animated feature."
   },
@@ -73,10 +73,322 @@
   },
   {
     "id": "mv-010",
-    "title": "Which 2019 superhero film briefly became the highest-grossing movie of all time before 'Avatar' reclaimed the record?",
+    "title": "Which 2019 superhero film briefly became the highest-grossing movie of all time before Avatar reclaimed the record?",
     "code": "",
     "options": ["Avengers: Infinity War", "Avengers: Endgame", "Spider-Man: No Way Home", "Star Wars: The Force Awakens"],
     "correctIndex": 1,
     "explanation": "Avengers: Endgame (2019) surpassed Avatar in 2019 to become the highest-grossing film, before Avatar retook the top spot after a 2021 re-release."
+  },
+  {
+    "id": "mv-011",
+    "title": "Which 2024 action film stars Jason Statham as a former beekeeper seeking revenge?",
+    "code": "",
+    "options": ["The Bricklayer", "Land of Bad", "The Beekeeper", "Boy Kills World"],
+    "correctIndex": 2,
+    "explanation": "The Beekeeper (2024) stars Jason Statham in a revenge-driven action thriller directed by David Ayer."
+  },
+  {
+    "id": "mv-012",
+    "title": "Which 2024 animated film continues the story of Po as he trains a new Dragon Warrior?",
+    "code": "",
+    "options": ["Kung Fu Panda 4", "Megamind vs. the Doom Syndicate", "The Tigers Apprentice", "Orion and the Dark"],
+    "correctIndex": 0,
+    "explanation": "Kung Fu Panda 4 (2024) follows Po as he prepares a successor while facing a powerful new villain."
+  },
+  {
+    "id": "mv-013",
+    "title": "In which 2024 thriller does Anne Hathaway play a widow navigating a high-profile romance?",
+    "code": "",
+    "options": ["Mothers Instinct", "The Idea of You", "Red One", "A Complete Unknown"],
+    "correctIndex": 1,
+    "explanation": "The Idea of You (2024) stars Anne Hathaway as a woman who becomes romantically involved with a younger pop star."
+  },
+  {
+    "id": "mv-014",
+    "title": "Which 2024 film is a continuation of Denis Villeneuve’s adaptation of Frank Herbert’s novel?",
+    "code": "",
+    "options": ["Dune: Part Two", "Cabrini", "Problemista", "Civil War"],
+    "correctIndex": 0,
+    "explanation": "Dune: Part Two (2024) continues Paul Atreides’ journey in Villeneuve’s adaptation of the sci-fi classic."
+  },
+  {
+    "id": "mv-015",
+    "title": "Which 2024 horror film follows a pop singer as she battles a mysterious supernatural curse?",
+    "code": "",
+    "options": ["Smile 2", "Immaculate", "Lisa Frankenstein", "Abigail"],
+    "correctIndex": 0,
+    "explanation": "Smile 2 (2024) stars Naomi Scott and continues the curse-based horror story introduced in Smile (2022)."
+  },
+  {
+    "id": "mv-016",
+    "title": "Which 2024 movie features Millie Bobby Brown as a young woman chosen as a sacrificial offering to a dragon?",
+    "code": "",
+    "options": ["Damsel", "Lift", "Suncoast", "Millers Girl"],
+    "correctIndex": 0,
+    "explanation": "Damsel (2024) stars Millie Bobby Brown as a princess betrayed and offered to a dragon."
+  },
+  {
+    "id": "mv-017",
+    "title": "Which 2024 film is a musical reimagining of the famous Frankenstein story, written by Diablo Cody?",
+    "code": "",
+    "options": ["Lisa Frankenstein", "The Monk and the Gun", "Música", "Strictly Confidential"],
+    "correctIndex": 0,
+    "explanation": "Lisa Frankenstein (2024) is a dark comedy romance written by Diablo Cody and directed by Zelda Williams."
+  },
+  {
+    "id": "mv-018",
+    "title": "Which 2024 superhero movie serves as a sequel to Joker (2019) and adds musical elements?",
+    "code": "",
+    "options": ["Madame Web", "Deadpool & Wolverine", "Joker: Folie à Deux", "Kraven the Hunter"],
+    "correctIndex": 2,
+    "explanation": "Joker: Folie à Deux (2024) is the musical-leaning sequel starring Joaquin Phoenix and Lady Gaga."
+  },
+  {
+    "id": "mv-019",
+    "title": "Which 2024 film stars Glen Powell and Daisy Edgar-Jones in a modern reimagining of the 1996 tornado classic?",
+    "code": "",
+    "options": ["Argylle", "Twisters", "Ghostbusters: Frozen Empire", "The Watchers"],
+    "correctIndex": 1,
+    "explanation": "Twisters (2024) continues the storm-chasing legacy of the original Twister."
+  },
+  {
+    "id": "mv-020",
+    "title": "Which 2024 sci-fi sequel reunites Kong and Godzilla to face a new threat?",
+    "code": "",
+    "options": ["Prey", "Rebel Moon – Part Two", "Godzilla x Kong: The New Empire", "Borderlands"],
+    "correctIndex": 2,
+    "explanation": "Godzilla x Kong: The New Empire (2024) continues the MonsterVerse storyline with both titans teaming up again."
+  },
+  {
+    "id": "mv-021",
+    "title": "Which 2024 sci-fi film stars Adam Sandler as a lonely astronaut encountering a mysterious creature?",
+    "code": "",
+    "options": ["Spaceman", "Rebel Moon – Part Two", "The Astronaut", "Alien: Romulus"],
+    "correctIndex": 0,
+    "explanation": "Spaceman (2024) stars Adam Sandler as an astronaut who meets a strange spider-like creature voiced by Paul Dano."
+  },
+  {
+    "id": "mv-022",
+    "title": "In which 2024 comedy does Eddie Murphy reprise his role as detective Axel Foley?",
+    "code": "",
+    "options": ["Bad Boys: Ride or Die", "Beverly Hills Cop: Axel F", "The Family Plan", "Bank of Dave 2"],
+    "correctIndex": 1,
+    "explanation": "Beverly Hills Cop: Axel F (2024) is the fourth installment of the franchise starring Eddie Murphy."
+  },
+  {
+    "id": "mv-023",
+    "title": "Which 2024 thriller features Sydney Sweeney as a nun experiencing disturbing visions?",
+    "code": "",
+    "options": ["Immaculate", "The First Omen", "Tarot", "Longlegs"],
+    "correctIndex": 0,
+    "explanation": "Immaculate (2024) stars Sydney Sweeney as a nun pulled into a horrific conspiracy."
+  },
+  {
+    "id": "mv-024",
+    "title": "Which 2024 sports biographical film follows the life and career of wrestler-turned-actor Von Erich brothers?",
+    "code": "",
+    "options": ["The Iron Claw", "Wrestle Kingdom", "Body Slammed", "Heavyweight"],
+    "correctIndex": 0,
+    "explanation": "The Iron Claw (wide 2024 release internationally) stars Zac Efron and Jeremy Allen White as the Von Erich brothers."
+  },
+  {
+    "id": "mv-025",
+    "title": "Which 2024 monster film introduces a new giant kaiju named Shimo?",
+    "code": "",
+    "options": ["Meg 3", "Pacific Rim: Genesis", "Godzilla x Kong: The New Empire", "Monster Hunter: Reclaim"],
+    "correctIndex": 2,
+    "explanation": "Godzilla x Kong: The New Empire (2024) features Shimo, a new ice-powered kaiju."
+  },
+  {
+    "id": "mv-026",
+    "title": "Which 2024 horror mystery stars Nicolas Cage as a reclusive serial killer known as Longlegs?",
+    "code": "",
+    "options": ["Arcadian", "Longlegs", "MaXXXine", "The Watchers"],
+    "correctIndex": 1,
+    "explanation": "Longlegs (2024) stars Nicolas Cage as the terrifying serial killer Longlegs."
+  },
+  {
+    "id": "mv-027",
+    "title": "Which 2024 film adapts the video game series about a vault dweller in a post-apocalyptic world?",
+    "code": "",
+    "options": ["Fortnite: Zero Hour", "Fallout", "S.T.A.L.K.E.R.", "Metro 2035"],
+    "correctIndex": 1,
+    "explanation": "Fallout (2024) is a major adaptation of the iconic Bethesda game series."
+  },
+  {
+    "id": "mv-028",
+    "title": "Which 2024 psychedelic fantasy features Ariana Grande and Cynthia Erivo as Glinda and Elphaba?",
+    "code": "",
+    "options": ["Wicked: Part One", "The Color Purple", "Once Upon a Studio", "Wish"],
+    "correctIndex": 0,
+    "explanation": "Wicked: Part One (2024) is the first installment of the movie adaptation of the Broadway musical Wicked."
+  },
+  {
+    "id": "mv-029",
+    "title": "Which 2024 film is a sequel to the horror movie The Black Phone?",
+    "code": "",
+    "options": ["The Black Phone 2", "The Grabber Returns", "The Ringmaster", "Dial Tone"],
+    "correctIndex": 0,
+    "explanation": "The Black Phone 2 (2024) continues the story of the original film featuring the Grabber."
+  },
+  {
+    "id": "mv-031",
+    "title": "In One Battle After Another (2025), who plays the washed-up revolutionary Bob?",
+    "code": "",
+    "options": ["Sean Penn", "Leonardo DiCaprio", "Benicio del Toro", "Christian Bale"],
+    "correctIndex": 1,
+    "explanation": "Leonardo DiCaprio stars as Bob, a former radical living off-grid."
+  },
+  {
+    "id": "mv-032",
+    "title": "What real-world event forms the backdrop of My Undesirable Friends: Part I – Last Air in Moscow (2025)?",
+    "code": "",
+    "options": ["Annexation of Crimea", "Russia’s invasion of Ukraine", "Cold War espionage", "The fall of the Soviet Union"],
+    "correctIndex": 1,
+    "explanation": "The documentary follows independent journalists during Russia’s invasion of Ukraine."
+  },
+  {
+    "id": "mv-033",
+    "title": "What sets the plot in motion in It Was Just an Accident (2025)?",
+    "code": "",
+    "options": ["A hit-and-run", "A car breakdown", "A minor accident", "A mistaken identity"],
+    "correctIndex": 2,
+    "explanation": "A seemingly minor accident sparks escalating consequences."
+  },
+  {
+    "id": "mv-034",
+    "title": "In The Secret Agent (2025), where does Marcelo arrive while on the run?",
+    "code": "",
+    "options": ["São Paulo", "Recife", "Rio de Janeiro", "Brasília"],
+    "correctIndex": 1,
+    "explanation": "Marcelo arrives in Recife during carnival week."
+  },
+  {
+    "id": "mv-035",
+    "title": "What system is exposed in The Alabama Solution (2025)?",
+    "code": "",
+    "options": ["Broken foster care system", "Immigration detention", "U.S. prison system", "Military prisons abroad"],
+    "correctIndex": 2,
+    "explanation": "The film focuses on corruption and brutality in one of America’s deadliest prison systems."
+  },
+  {
+    "id": "mv-036",
+    "title": "Where does the journey in BLKNWS: Terms & Conditions (2025) ultimately lead?",
+    "code": "",
+    "options": ["The Sahara Desert", "The Atlantic Ocean", "The Himalayas", "Tokyo"],
+    "correctIndex": 1,
+    "explanation": "Funmilayo Akechukwu’s work leads to a journey into the heart of the Atlantic Ocean."
+  },
+  {
+    "id": "mv-037",
+    "title": "What is Agnes dealing with in Sorry, Baby (2025)?",
+    "code": "",
+    "options": ["A family death", "A traumatic event", "A missing sibling", "A career failure"],
+    "correctIndex": 1,
+    "explanation": "The film notes that something bad happened to Agnes, and life moves on around her."
+  },
+  {
+    "id": "mv-038",
+    "title": "What mission is depicted in 2000 Meters to Andriivka (2025)?",
+    "code": "",
+    "options": ["A medical evacuation", "A covert assassination", "A platoon advancing one mile through fortified forest", "A diplomatic rescue"],
+    "correctIndex": 2,
+    "explanation": "The film follows a Ukrainian platoon attempting to cross one mile of fortified forest to liberate a village."
+  },
+  {
+    "id": "mv-039",
+    "title": "Which profession does Robert Grainier have in Train Dreams (2025)?",
+    "code": "",
+    "options": ["Farmer", "Logger and railroad worker", "Cowboy", "Schoolteacher"],
+    "correctIndex": 1,
+    "explanation": "Grainier is a logger and railroad worker in early 20th-century America."
+  },
+  {
+    "id": "mv-040",
+    "title": "In Familiar Touch (2025), what condition shapes Ruth’s story?",
+    "code": "",
+    "options": ["Chronic pain disorder", "Memory loss / dementia", "Parkinson’s disease", "Severe anxiety"],
+    "correctIndex": 1,
+    "explanation": "Ruth is in a memory-care facility due to worsening memory loss."
+  },
+  {
+    "id": "mv-041",
+    "title": "In On Becoming a Guinea Fowl (2025), what event triggers buried family secrets to surface?",
+    "code": "",
+    "options": ["A wedding", "A missing child", "Finding an uncle’s body", "A house fire"],
+    "correctIndex": 2,
+    "explanation": "Shula discovers her uncle’s body on the road, which leads to hidden family secrets being revealed."
+  },
+  {
+    "id": "mv-042",
+    "title": "In Caught by the Tides (2025), what motivates Qiaoqiao to begin her long journey?",
+    "code": "",
+    "options": ["She loses her job", "She wants to start a band", "Bin leaves without notice", "She inherits money"],
+    "correctIndex": 2,
+    "explanation": "Qiaoqiao travels to look for Bin after he disappears without telling her."
+  },
+  {
+    "id": "mv-043",
+    "title": "What profession does Gustav hold in Sentimental Value (2025)?",
+    "code": "",
+    "options": ["Chef", "Actor", "Architect", "Film director"],
+    "correctIndex": 3,
+    "explanation": "Gustav is a once-renowned director trying to stage a comeback."
+  },
+  {
+    "id": "mv-044",
+    "title": "In A Little Prayer (2025), what war did Bill, the family patriarch, serve in?",
+    "code": "",
+    "options": ["World War II", "Korean War", "Vietnam War", "Gulf War"],
+    "correctIndex": 2,
+    "explanation": "Bill is a Vietnam veteran living in North Carolina."
+  },
+  {
+    "id": "mv-045",
+    "title": "In April (2025), what event places Nina’s medical career under scrutiny?",
+    "code": "",
+    "options": ["A malpractice lawsuit", "A newborn’s death", "A hospital closure", "Unauthorized surgery"],
+    "correctIndex": 1,
+    "explanation": "Nina is investigated after the death of a newborn under her care."
+  },
+  {
+    "id": "mv-046",
+    "title": "What motivates the protagonist’s plan in No Other Choice (2025)?",
+    "code": "",
+    "options": ["Revenge on his boss", "Getting custody of his child", "A chance to escape debt", "Securing a job by eliminating competition"],
+    "correctIndex": 3,
+    "explanation": "He devises a scheme to remove job competitors after years of unemployment."
+  },
+  {
+    "id": "mv-047",
+    "title": "In The Tale of Silyan (2025), what creature sparks the story’s transformation?",
+    "code": "",
+    "options": ["A wolf", "A white stork", "A fox", "A bear"],
+    "correctIndex": 1,
+    "explanation": "A wounded white stork rescued from a landfill changes the farmer’s life."
+  },
+  {
+    "id": "mv-048",
+    "title": "What tragic real event forms the core of The Voice of Hind Rajab (2025)?",
+    "code": "",
+    "options": ["A shipwreck off Gaza", "A school bombing", "A trapped child under fire", "A collapsed hospital"],
+    "correctIndex": 2,
+    "explanation": "The film follows emergency workers trying to save a six-year-old girl trapped in a car under fire."
+  },
+  {
+    "id": "mv-049",
+    "title": "In Afternoons of Solitude (2025), which cultural tradition is the focus of the documentary?",
+    "code": "",
+    "options": ["Samba parades", "Spanish bullfighting", "Ancient temple rituals", "Irish folklore dances"],
+    "correctIndex": 1,
+    "explanation": "The film explores the beauty and brutality of bullfighting through matador Andrés Roca Rey."
+  },
+  {
+    "id": "mv-050",
+    "title": "Where is Anand forced to spend ten days in Cactus Pears (2025)?",
+    "code": "",
+    "options": ["A desert ashram", "A mountain monastery", "The countryside for mourning", "A remote island"],
+    "correctIndex": 2,
+    "explanation": "He must complete a 10-day mourning period in rural western India."
   }
 ]

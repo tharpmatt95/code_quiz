@@ -57,14 +57,29 @@ const movieSchema = new mongoose.Schema({
 const Movie = mongoose.model("Movie", movieSchema, "movies");
 
 // -------------------------------------------------------------
+// Helper: Insert only missing items
+// -------------------------------------------------------------
+async function insertMissing(Model, jsonData) {
+  const existing = await Model.find({}, { id: 1 }).lean();
+  const existingIds = new Set(existing.map(x => x.id));
+
+  const missing = jsonData.filter(entry => !existingIds.has(entry.id));
+
+  if (missing.length > 0) {
+    console.log(`Inserting ${missing.length} missing items into ${Model.collection.name}`);
+    await Model.insertMany(missing);
+  } else {
+    console.log(`No new items to insert for ${Model.collection.name}`);
+  }
+}
+
+// -------------------------------------------------------------
 // Seed Python
 // -------------------------------------------------------------
 const pythonFile = join(__dirname, "questions", "python.json");
 const pythonData = JSON.parse(readFileSync(pythonFile, "utf-8"));
 
-if (await Python.countDocuments() === 0) {
-  await Python.insertMany(pythonData);
-}
+await insertMissing(Python, pythonData);
 
 // -------------------------------------------------------------
 // Seed Movies
@@ -72,8 +87,7 @@ if (await Python.countDocuments() === 0) {
 const moviesFile = join(__dirname, "questions", "movies.json");
 const moviesData = JSON.parse(readFileSync(moviesFile, "utf-8"));
 
-if (await Movie.countDocuments() === 0) {
-  await Movie.insertMany(moviesData);
-}
+await insertMissing(Movie, moviesData);
 
+// -------------------------------------------------------------
 process.exit(0);

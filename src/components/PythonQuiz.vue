@@ -66,7 +66,7 @@ function shuffle(arr) {
 async function loadUserCorrectCount() {
   try {
     const res = await axios.get('/auth/me')
-    totalCorrect.value = res.data.correctQuestions.length
+    totalCorrect.value = res.data.correctPython.length
   } catch (_) {
     totalCorrect.value = 0
   }
@@ -137,7 +137,7 @@ async function nextQuestion() {
 <template>
   <div class="quiz-card" v-if="currentQuestion">
     <header class="quiz-header">
-      <h2>Code Quiz</h2>
+      <h2>Python Quiz</h2>
       <p class="score">
         Correct: {{ totalCorrect }}
       </p>
@@ -242,6 +242,10 @@ async function nextQuestion() {
   color: #bbbbbb;
 }
 
+.question {
+  text-align: left; /* ensures all inner content aligns left */
+}
+
 .question-title {
   font-weight: 600;
   margin-bottom: 0.75rem;
@@ -256,6 +260,9 @@ async function nextQuestion() {
   overflow-x: auto;
   margin-bottom: 1rem;
   border: 1px solid #333;
+
+  text-align: left !important; /* force left alignment */
+  white-space: pre-wrap;       /* keeps formatting but allows wrapping */
 }
 
 .options {

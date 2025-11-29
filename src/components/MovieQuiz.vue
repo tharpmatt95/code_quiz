@@ -121,12 +121,6 @@ async function nextMovie() {
     <section class="question">
       <p class="question-title">{{ currentMovie.title }}</p>
 
-      <p class="movie-meta">
-        <strong>Year:</strong> {{ currentMovie.year }} •
-        <strong>Genre:</strong> {{ currentMovie.genre }} •
-        <strong>Director:</strong> {{ currentMovie.director }}
-      </p>
-
       <ul class="options">
         <li
           v-for="(option, index) in currentMovie.options"

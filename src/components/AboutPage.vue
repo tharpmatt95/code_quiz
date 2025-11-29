@@ -28,15 +28,6 @@
           <li><strong>Express.js</strong> — backend API server</li>
           <li><strong>MongoDB</strong> — database for questions & user progress</li>
         </ul>
-
-        <h3>Upcoming Features</h3>
-        <ul>
-          <li>Difficulty selection & topic filters</li>
-          <li>Daily streaks and XP system</li>
-          <li>Review page for missed or difficult questions</li>
-          <li>Full question library browser</li>
-        </ul>
-
         <p>
           Thank you for using this platform — more improvements are on the way!
         </p>
