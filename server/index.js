@@ -11,9 +11,12 @@ const app = express()
 // Middleware
 // --------------------------------------------------
 app.use(cors({
-  origin: 'http://localhost:5173',
+  origin: [
+    'http://localhost',
+    process.env.API_CLIENT_ORIGIN
+  ],
   credentials: true
-}))
+}));
 app.use(express.json())
 app.use(cookieParser())
 
