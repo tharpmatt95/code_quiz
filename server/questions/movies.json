@@ -2,7 +2,7 @@
   {
     "id": "mv-001",
     "title": "Which 1975 thriller about a killer shark was directed by Steven Spielberg?",
-    "code": "",
+    
     "options": ["Close Encounters of the Third Kind", "Jaws", "E.T. the Extra-Terrestrial", "Poltergeist"],
     "correctIndex": 1,
     "explanation": "Jaws is a 1975 American thriller film directed by Steven Spielberg about a great white shark terrorizing a beach town."
@@ -10,7 +10,7 @@
   {
     "id": "mv-002",
     "title": "Which 1977 film introduced audiences to the character Darth Vader?",
-    "code": "",
+    
     "options": ["Close Encounters of the Third Kind", "Superman", "Star Wars", "Star Trek: The Motion Picture"],
     "correctIndex": 2,
     "explanation": "Darth Vader first appeared in the 1977 film Star Wars, later retitled Star Wars: Episode IV – A New Hope."
@@ -18,7 +18,7 @@
   {
     "id": "mv-003",
     "title": "Which actor played Indiana Jones in the 1981 film Raiders of the Lost Ark?",
-    "code": "",
+    
     "options": ["Tom Selleck", "Harrison Ford", "Michael Douglas", "Kurt Russell"],
     "correctIndex": 1,
     "explanation": "Harrison Ford stars as the archaeologist-adventurer Indiana Jones in Raiders of the Lost Ark."
@@ -26,7 +26,7 @@
   {
     "id": "mv-004",
     "title": "Which 1985 film features a time machine built from a DeLorean sports car?",
-    "code": "",
+    
     "options": ["The Terminator", "Tron", "Bill & Teds Excellent Adventure", "Back to the Future"],
     "correctIndex": 3,
     "explanation": "Back to the Future (1985) features a time machine built from a modified DeLorean car."
@@ -34,7 +34,7 @@
   {
     "id": "mv-005",
     "title": "Which animated movie was Pixar’s first feature-length film, released in 1995?",
-    "code": "",
+    
     "options": ["Toy Story", "A Bugs Life", "Finding Nemo", "Monsters, Inc."],
     "correctIndex": 0,
     "explanation": "Toy Story (1995) was Pixar’s first full-length feature film and the first entirely computer-animated feature."
@@ -42,7 +42,7 @@
   {
     "id": "mv-006",
     "title": "Which 1994 film stars Tom Hanks as a man who unwittingly witnesses and influences key moments in U.S. history?",
-    "code": "",
+    
     "options": ["Apollo 13", "Saving Private Ryan", "Forrest Gump", "Philadelphia"],
     "correctIndex": 2,
     "explanation": "Forrest Gump (1994) stars Tom Hanks as Forrest, whose life intersects with many major historical events."
@@ -50,7 +50,7 @@
   {
     "id": "mv-007",
     "title": "In which 2001 fantasy film does the elf Legolas first appear on the big screen?",
-    "code": "",
+    
     "options": ["Harry Potter and the Sorcerer’s Stone", "The Two Towers", "The Fellowship of the Ring", "The Return of the King"],
     "correctIndex": 2,
     "explanation": "Legolas is introduced in The Lord of the Rings: The Fellowship of the Ring (2001), portrayed by Orlando Bloom."
@@ -58,7 +58,7 @@
   {
     "id": "mv-008",
     "title": "Which 2008 superhero movie launched the Marvel Cinematic Universe (MCU)?",
-    "code": "",
+    
     "options": ["The Incredible Hulk", "Iron Man", "Thor", "Captain America: The First Avenger"],
     "correctIndex": 1,
     "explanation": "Iron Man (2008) is the first film in the Marvel Cinematic Universe."
@@ -66,7 +66,7 @@
   {
     "id": "mv-009",
     "title": "Which 2010 science-fiction film centers on thieves who enter dreams to implant ideas?",
-    "code": "",
+    
     "options": ["Shutter Island", "Source Code", "Interstellar", "Inception"],
     "correctIndex": 3,
     "explanation": "Inception (2010) follows a team that performs corporate espionage by entering and manipulating layered dreams."
@@ -74,7 +74,7 @@
   {
     "id": "mv-010",
     "title": "Which 2019 superhero film briefly became the highest-grossing movie of all time before Avatar reclaimed the record?",
-    "code": "",
+    
     "options": ["Avengers: Infinity War", "Avengers: Endgame", "Spider-Man: No Way Home", "Star Wars: The Force Awakens"],
     "correctIndex": 1,
     "explanation": "Avengers: Endgame (2019) surpassed Avatar in 2019 to become the highest-grossing film, before Avatar retook the top spot after a 2021 re-release."
@@ -82,7 +82,7 @@
   {
     "id": "mv-011",
     "title": "Which 2024 action film stars Jason Statham as a former beekeeper seeking revenge?",
-    "code": "",
+    
     "options": ["The Bricklayer", "Land of Bad", "The Beekeeper", "Boy Kills World"],
     "correctIndex": 2,
     "explanation": "The Beekeeper (2024) stars Jason Statham in a revenge-driven action thriller directed by David Ayer."
@@ -90,7 +90,7 @@
   {
     "id": "mv-012",
     "title": "Which 2024 animated film continues the story of Po as he trains a new Dragon Warrior?",
-    "code": "",
+    
     "options": ["Kung Fu Panda 4", "Megamind vs. the Doom Syndicate", "The Tigers Apprentice", "Orion and the Dark"],
     "correctIndex": 0,
     "explanation": "Kung Fu Panda 4 (2024) follows Po as he prepares a successor while facing a powerful new villain."
@@ -98,7 +98,7 @@
   {
     "id": "mv-013",
     "title": "In which 2024 thriller does Anne Hathaway play a widow navigating a high-profile romance?",
-    "code": "",
+    
     "options": ["Mothers Instinct", "The Idea of You", "Red One", "A Complete Unknown"],
     "correctIndex": 1,
     "explanation": "The Idea of You (2024) stars Anne Hathaway as a woman who becomes romantically involved with a younger pop star."
@@ -106,7 +106,7 @@
   {
     "id": "mv-014",
     "title": "Which 2024 film is a continuation of Denis Villeneuve’s adaptation of Frank Herbert’s novel?",
-    "code": "",
+    
     "options": ["Dune: Part Two", "Cabrini", "Problemista", "Civil War"],
     "correctIndex": 0,
     "explanation": "Dune: Part Two (2024) continues Paul Atreides’ journey in Villeneuve’s adaptation of the sci-fi classic."
@@ -114,7 +114,7 @@
   {
     "id": "mv-015",
     "title": "Which 2024 horror film follows a pop singer as she battles a mysterious supernatural curse?",
-    "code": "",
+    
     "options": ["Smile 2", "Immaculate", "Lisa Frankenstein", "Abigail"],
     "correctIndex": 0,
     "explanation": "Smile 2 (2024) stars Naomi Scott and continues the curse-based horror story introduced in Smile (2022)."
@@ -122,7 +122,7 @@
   {
     "id": "mv-016",
     "title": "Which 2024 movie features Millie Bobby Brown as a young woman chosen as a sacrificial offering to a dragon?",
-    "code": "",
+    
     "options": ["Damsel", "Lift", "Suncoast", "Millers Girl"],
     "correctIndex": 0,
     "explanation": "Damsel (2024) stars Millie Bobby Brown as a princess betrayed and offered to a dragon."
@@ -130,7 +130,7 @@
   {
     "id": "mv-017",
     "title": "Which 2024 film is a musical reimagining of the famous Frankenstein story, written by Diablo Cody?",
-    "code": "",
+    
     "options": ["Lisa Frankenstein", "The Monk and the Gun", "Música", "Strictly Confidential"],
     "correctIndex": 0,
     "explanation": "Lisa Frankenstein (2024) is a dark comedy romance written by Diablo Cody and directed by Zelda Williams."
@@ -138,7 +138,7 @@
   {
     "id": "mv-018",
     "title": "Which 2024 superhero movie serves as a sequel to Joker (2019) and adds musical elements?",
-    "code": "",
+    
     "options": ["Madame Web", "Deadpool & Wolverine", "Joker: Folie à Deux", "Kraven the Hunter"],
     "correctIndex": 2,
     "explanation": "Joker: Folie à Deux (2024) is the musical-leaning sequel starring Joaquin Phoenix and Lady Gaga."
@@ -146,7 +146,7 @@
   {
     "id": "mv-019",
     "title": "Which 2024 film stars Glen Powell and Daisy Edgar-Jones in a modern reimagining of the 1996 tornado classic?",
-    "code": "",
+    
     "options": ["Argylle", "Twisters", "Ghostbusters: Frozen Empire", "The Watchers"],
     "correctIndex": 1,
     "explanation": "Twisters (2024) continues the storm-chasing legacy of the original Twister."
@@ -154,7 +154,7 @@
   {
     "id": "mv-020",
     "title": "Which 2024 sci-fi sequel reunites Kong and Godzilla to face a new threat?",
-    "code": "",
+    
     "options": ["Prey", "Rebel Moon – Part Two", "Godzilla x Kong: The New Empire", "Borderlands"],
     "correctIndex": 2,
     "explanation": "Godzilla x Kong: The New Empire (2024) continues the MonsterVerse storyline with both titans teaming up again."
@@ -162,7 +162,7 @@
   {
     "id": "mv-021",
     "title": "Which 2024 sci-fi film stars Adam Sandler as a lonely astronaut encountering a mysterious creature?",
-    "code": "",
+    
     "options": ["Spaceman", "Rebel Moon – Part Two", "The Astronaut", "Alien: Romulus"],
     "correctIndex": 0,
     "explanation": "Spaceman (2024) stars Adam Sandler as an astronaut who meets a strange spider-like creature voiced by Paul Dano."
@@ -170,7 +170,7 @@
   {
     "id": "mv-022",
     "title": "In which 2024 comedy does Eddie Murphy reprise his role as detective Axel Foley?",
-    "code": "",
+    
     "options": ["Bad Boys: Ride or Die", "Beverly Hills Cop: Axel F", "The Family Plan", "Bank of Dave 2"],
     "correctIndex": 1,
     "explanation": "Beverly Hills Cop: Axel F (2024) is the fourth installment of the franchise starring Eddie Murphy."
@@ -178,7 +178,7 @@
   {
     "id": "mv-023",
     "title": "Which 2024 thriller features Sydney Sweeney as a nun experiencing disturbing visions?",
-    "code": "",
+    
     "options": ["Immaculate", "The First Omen", "Tarot", "Longlegs"],
     "correctIndex": 0,
     "explanation": "Immaculate (2024) stars Sydney Sweeney as a nun pulled into a horrific conspiracy."
@@ -186,7 +186,7 @@
   {
     "id": "mv-024",
     "title": "Which 2024 sports biographical film follows the life and career of wrestler-turned-actor Von Erich brothers?",
-    "code": "",
+    
     "options": ["The Iron Claw", "Wrestle Kingdom", "Body Slammed", "Heavyweight"],
     "correctIndex": 0,
     "explanation": "The Iron Claw (wide 2024 release internationally) stars Zac Efron and Jeremy Allen White as the Von Erich brothers."
@@ -194,7 +194,7 @@
   {
     "id": "mv-025",
     "title": "Which 2024 monster film introduces a new giant kaiju named Shimo?",
-    "code": "",
+    
     "options": ["Meg 3", "Pacific Rim: Genesis", "Godzilla x Kong: The New Empire", "Monster Hunter: Reclaim"],
     "correctIndex": 2,
     "explanation": "Godzilla x Kong: The New Empire (2024) features Shimo, a new ice-powered kaiju."
@@ -202,7 +202,7 @@
   {
     "id": "mv-026",
     "title": "Which 2024 horror mystery stars Nicolas Cage as a reclusive serial killer known as Longlegs?",
-    "code": "",
+    
     "options": ["Arcadian", "Longlegs", "MaXXXine", "The Watchers"],
     "correctIndex": 1,
     "explanation": "Longlegs (2024) stars Nicolas Cage as the terrifying serial killer Longlegs."
@@ -210,7 +210,7 @@
   {
     "id": "mv-027",
     "title": "Which 2024 film adapts the video game series about a vault dweller in a post-apocalyptic world?",
-    "code": "",
+    
     "options": ["Fortnite: Zero Hour", "Fallout", "S.T.A.L.K.E.R.", "Metro 2035"],
     "correctIndex": 1,
     "explanation": "Fallout (2024) is a major adaptation of the iconic Bethesda game series."
@@ -218,7 +218,7 @@
   {
     "id": "mv-028",
     "title": "Which 2024 psychedelic fantasy features Ariana Grande and Cynthia Erivo as Glinda and Elphaba?",
-    "code": "",
+    
     "options": ["Wicked: Part One", "The Color Purple", "Once Upon a Studio", "Wish"],
     "correctIndex": 0,
     "explanation": "Wicked: Part One (2024) is the first installment of the movie adaptation of the Broadway musical Wicked."
@@ -226,7 +226,7 @@
   {
     "id": "mv-029",
     "title": "Which 2024 film is a sequel to the horror movie The Black Phone?",
-    "code": "",
+    
     "options": ["The Black Phone 2", "The Grabber Returns", "The Ringmaster", "Dial Tone"],
     "correctIndex": 0,
     "explanation": "The Black Phone 2 (2024) continues the story of the original film featuring the Grabber."
@@ -234,7 +234,7 @@
   {
     "id": "mv-031",
     "title": "In One Battle After Another (2025), who plays the washed-up revolutionary Bob?",
-    "code": "",
+    
     "options": ["Sean Penn", "Leonardo DiCaprio", "Benicio del Toro", "Christian Bale"],
     "correctIndex": 1,
     "explanation": "Leonardo DiCaprio stars as Bob, a former radical living off-grid."
@@ -242,7 +242,7 @@
   {
     "id": "mv-032",
     "title": "What real-world event forms the backdrop of My Undesirable Friends: Part I – Last Air in Moscow (2025)?",
-    "code": "",
+    
     "options": ["Annexation of Crimea", "Russia’s invasion of Ukraine", "Cold War espionage", "The fall of the Soviet Union"],
     "correctIndex": 1,
     "explanation": "The documentary follows independent journalists during Russia’s invasion of Ukraine."
@@ -250,7 +250,7 @@
   {
     "id": "mv-033",
     "title": "What sets the plot in motion in It Was Just an Accident (2025)?",
-    "code": "",
+    
     "options": ["A hit-and-run", "A car breakdown", "A minor accident", "A mistaken identity"],
     "correctIndex": 2,
     "explanation": "A seemingly minor accident sparks escalating consequences."
@@ -258,7 +258,7 @@
   {
     "id": "mv-034",
     "title": "In The Secret Agent (2025), where does Marcelo arrive while on the run?",
-    "code": "",
+    
     "options": ["São Paulo", "Recife", "Rio de Janeiro", "Brasília"],
     "correctIndex": 1,
     "explanation": "Marcelo arrives in Recife during carnival week."
@@ -266,7 +266,7 @@
   {
     "id": "mv-035",
     "title": "What system is exposed in The Alabama Solution (2025)?",
-    "code": "",
+    
     "options": ["Broken foster care system", "Immigration detention", "U.S. prison system", "Military prisons abroad"],
     "correctIndex": 2,
     "explanation": "The film focuses on corruption and brutality in one of America’s deadliest prison systems."
@@ -274,7 +274,7 @@
   {
     "id": "mv-036",
     "title": "Where does the journey in BLKNWS: Terms & Conditions (2025) ultimately lead?",
-    "code": "",
+    
     "options": ["The Sahara Desert", "The Atlantic Ocean", "The Himalayas", "Tokyo"],
     "correctIndex": 1,
     "explanation": "Funmilayo Akechukwu’s work leads to a journey into the heart of the Atlantic Ocean."
@@ -282,7 +282,7 @@
   {
     "id": "mv-037",
     "title": "What is Agnes dealing with in Sorry, Baby (2025)?",
-    "code": "",
+    
     "options": ["A family death", "A traumatic event", "A missing sibling", "A career failure"],
     "correctIndex": 1,
     "explanation": "The film notes that something bad happened to Agnes, and life moves on around her."
@@ -290,7 +290,7 @@
   {
     "id": "mv-038",
     "title": "What mission is depicted in 2000 Meters to Andriivka (2025)?",
-    "code": "",
+    
     "options": ["A medical evacuation", "A covert assassination", "A platoon advancing one mile through fortified forest", "A diplomatic rescue"],
     "correctIndex": 2,
     "explanation": "The film follows a Ukrainian platoon attempting to cross one mile of fortified forest to liberate a village."
@@ -298,7 +298,7 @@
   {
     "id": "mv-039",
     "title": "Which profession does Robert Grainier have in Train Dreams (2025)?",
-    "code": "",
+    
     "options": ["Farmer", "Logger and railroad worker", "Cowboy", "Schoolteacher"],
     "correctIndex": 1,
     "explanation": "Grainier is a logger and railroad worker in early 20th-century America."
@@ -306,7 +306,7 @@
   {
     "id": "mv-040",
     "title": "In Familiar Touch (2025), what condition shapes Ruth’s story?",
-    "code": "",
+    
     "options": ["Chronic pain disorder", "Memory loss / dementia", "Parkinson’s disease", "Severe anxiety"],
     "correctIndex": 1,
     "explanation": "Ruth is in a memory-care facility due to worsening memory loss."
@@ -314,7 +314,7 @@
   {
     "id": "mv-041",
     "title": "In On Becoming a Guinea Fowl (2025), what event triggers buried family secrets to surface?",
-    "code": "",
+    
     "options": ["A wedding", "A missing child", "Finding an uncle’s body", "A house fire"],
     "correctIndex": 2,
     "explanation": "Shula discovers her uncle’s body on the road, which leads to hidden family secrets being revealed."
@@ -322,7 +322,7 @@
   {
     "id": "mv-042",
     "title": "In Caught by the Tides (2025), what motivates Qiaoqiao to begin her long journey?",
-    "code": "",
+    
     "options": ["She loses her job", "She wants to start a band", "Bin leaves without notice", "She inherits money"],
     "correctIndex": 2,
     "explanation": "Qiaoqiao travels to look for Bin after he disappears without telling her."
@@ -330,7 +330,7 @@
   {
     "id": "mv-043",
     "title": "What profession does Gustav hold in Sentimental Value (2025)?",
-    "code": "",
+    
     "options": ["Chef", "Actor", "Architect", "Film director"],
     "correctIndex": 3,
     "explanation": "Gustav is a once-renowned director trying to stage a comeback."
@@ -338,7 +338,7 @@
   {
     "id": "mv-044",
     "title": "In A Little Prayer (2025), what war did Bill, the family patriarch, serve in?",
-    "code": "",
+    
     "options": ["World War II", "Korean War", "Vietnam War", "Gulf War"],
     "correctIndex": 2,
     "explanation": "Bill is a Vietnam veteran living in North Carolina."
@@ -346,7 +346,7 @@
   {
     "id": "mv-045",
     "title": "In April (2025), what event places Nina’s medical career under scrutiny?",
-    "code": "",
+    
     "options": ["A malpractice lawsuit", "A newborn’s death", "A hospital closure", "Unauthorized surgery"],
     "correctIndex": 1,
     "explanation": "Nina is investigated after the death of a newborn under her care."
@@ -354,7 +354,7 @@
   {
     "id": "mv-046",
     "title": "What motivates the protagonist’s plan in No Other Choice (2025)?",
-    "code": "",
+    
     "options": ["Revenge on his boss", "Getting custody of his child", "A chance to escape debt", "Securing a job by eliminating competition"],
     "correctIndex": 3,
     "explanation": "He devises a scheme to remove job competitors after years of unemployment."
@@ -362,7 +362,7 @@
   {
     "id": "mv-047",
     "title": "In The Tale of Silyan (2025), what creature sparks the story’s transformation?",
-    "code": "",
+    
     "options": ["A wolf", "A white stork", "A fox", "A bear"],
     "correctIndex": 1,
     "explanation": "A wounded white stork rescued from a landfill changes the farmer’s life."
@@ -370,7 +370,7 @@
   {
     "id": "mv-048",
     "title": "What tragic real event forms the core of The Voice of Hind Rajab (2025)?",
-    "code": "",
+    
     "options": ["A shipwreck off Gaza", "A school bombing", "A trapped child under fire", "A collapsed hospital"],
     "correctIndex": 2,
     "explanation": "The film follows emergency workers trying to save a six-year-old girl trapped in a car under fire."
@@ -378,7 +378,7 @@
   {
     "id": "mv-049",
     "title": "In Afternoons of Solitude (2025), which cultural tradition is the focus of the documentary?",
-    "code": "",
+    
     "options": ["Samba parades", "Spanish bullfighting", "Ancient temple rituals", "Irish folklore dances"],
     "correctIndex": 1,
     "explanation": "The film explores the beauty and brutality of bullfighting through matador Andrés Roca Rey."
@@ -386,7 +386,7 @@
   {
     "id": "mv-050",
     "title": "Where is Anand forced to spend ten days in Cactus Pears (2025)?",
-    "code": "",
+    
     "options": ["A desert ashram", "A mountain monastery", "The countryside for mourning", "A remote island"],
     "correctIndex": 2,
     "explanation": "He must complete a 10-day mourning period in rural western India."
@@ -394,7 +394,7 @@
   {
   "id": "mv-051",
   "title": "In Past Lives (2023), what separates Nora and Hae Sung as children?",
-  "code": "",
+  
   "options": ["A family feud", "Nora’s emigration to Canada and later the U.S.", "A school transfer", "An arranged marriage"],
   "correctIndex": 1,
   "explanation": "Nora’s family emigrates from South Korea, ending their childhood proximity."
@@ -402,7 +402,7 @@
 {
   "id": "mv-052",
   "title": "In Trenque Lauquen Parte I (2023), what discovery sets the investigation in motion?",
-  "code": "",
+  
   "options": ["A stolen car", "A hidden set of love letters", "A missing child", "A mysterious illness"],
   "correctIndex": 1,
   "explanation": "Secret love letters found in library books lead to revelations about Laura’s disappearance."
@@ -410,7 +410,7 @@
 {
   "id": "mv-053",
   "title": "In Trenque Lauquen Parte II (2023), what theme drives the second half of the story?",
-  "code": "",
+  
   "options": ["A police pursuit", "Uncovering multiple narrative mysteries around Laura", "A political conspiracy", "Time travel"],
   "correctIndex": 1,
   "explanation": "The film deepens the exploration of interconnected mysteries surrounding Laura."
@@ -418,7 +418,7 @@
 {
   "id": "mv-054",
   "title": "Our Body (2023) documents which type of medical setting?",
-  "code": "",
+  
   "options": ["Pediatrics ward", "Gynecological ward", "Emergency trauma unit", "Geriatric care facility"],
   "correctIndex": 1,
   "explanation": "The film observes the workings of a public hospital’s gynecological ward."
@@ -426,7 +426,7 @@
 {
   "id": "mv-055",
   "title": "De Humani Corporis Fabrica (2023) primarily offers unprecedented cinematic access to what?",
-  "code": "",
+  
   "options": ["Outer space", "Political trials", "The interior of the human body", "Natural disasters"],
   "correctIndex": 2,
   "explanation": "The documentary reveals internal human landscapes through surgical and clinical imagery."
@@ -434,7 +434,7 @@
 {
   "id": "mv-056",
   "title": "What is the central setting in The Zone of Interest (2023)?",
-  "code": "",
+  
   "options": ["A French suburb", "A POW camp in Italy", "The commandant’s home beside Auschwitz", "A bunker in Berlin"],
   "correctIndex": 2,
   "explanation": "The film portrays the Höss family household located directly next to Auschwitz."
@@ -442,7 +442,7 @@
 {
   "id": "mv-057",
   "title": "Menus Plaisirs – Les Troisgros (2023) focuses on which famous restaurant tradition?",
-  "code": "",
+  
   "options": ["A century-old Spanish winery", "A multi-generational French Michelin-starred family restaurant", "A Tokyo sushi apprenticeship lineage", "A New York fusion kitchen"],
   "correctIndex": 1,
   "explanation": "It documents day-to-day operations of the Troisgros family’s Michelin-starred establishments."
@@ -450,7 +450,7 @@
 {
   "id": "mv-058",
   "title": "In Saint Omer (2023), the protagonist Rama attends what event?",
-  "code": "",
+  
   "options": ["A political rally", "A university lecture", "A murder trial", "A literary festival"],
   "correctIndex": 2,
   "explanation": "Rama observes the murder trial of Laurence Coly, which challenges her assumptions."
@@ -458,7 +458,7 @@
 {
   "id": "mv-059",
   "title": "In The Boy and the Heron (2023), Mahito enters a world where what occurs?",
-  "code": "",
+  
   "options": ["Animals talk", "Life and death merge and transform", "Time moves backward", "Humans become spirits permanently"],
   "correctIndex": 1,
   "explanation": "He enters a realm where the boundaries of life and death dissolve."
@@ -466,7 +466,7 @@
 {
   "id": "mv-060",
   "title": "What is the thematic focus of 32 Sounds (2023)?",
-  "code": "",
+  
   "options": ["Historical reenactments", "Physics experiments", "The nature and experience of sound", "Ancient musical instruments"],
   "correctIndex": 2,
   "explanation": "It is a sensory documentary exploring how sound shapes memory and perception."
@@ -474,7 +474,7 @@
 {
   "id": "mv-061",
   "title": "In All of Us Strangers (2023), what unusual discovery does Adam make when revisiting his childhood home?",
-  "code": "",
+  
   "options": ["His parents are still alive exactly as they were decades earlier", "The house is abandoned", "His friend lives there now", "A hidden family diary"],
   "correctIndex": 0,
   "explanation": "Adam finds his parents appearing unchanged and living as if they never died."
@@ -482,7 +482,7 @@
 {
   "id": "mv-062",
   "title": "Oppenheimer (2023) centers on what historical project?",
-  "code": "",
+  
   "options": ["Apollo Program", "Manhattan Project", "Bay of Pigs", "Marshall Plan"],
   "correctIndex": 1,
   "explanation": "The film dramatizes Oppenheimer’s leadership of the Manhattan Project."
@@ -490,7 +490,7 @@
 {
   "id": "mv-063",
   "title": "Killers of the Flower Moon (2023) depicts crimes committed against which community?",
-  "code": "",
+  
   "options": ["Cherokee Nation", "Navajo Nation", "Osage Nation", "Lakota Sioux"],
   "correctIndex": 2,
   "explanation": "The story follows the murders targeting wealthy Osage people in the 1920s."
@@ -498,7 +498,7 @@
 {
   "id": "mv-064",
   "title": "Ear for Eye (2023) examines experiences of which groups?",
-  "code": "",
+  
   "options": ["Immigrant workers", "British and American Black individuals", "Rural farmers", "Journalists under censorship"],
   "correctIndex": 1,
   "explanation": "The film follows Black characters in the UK and US navigating contemporary racial realities."
@@ -506,7 +506,7 @@
 {
   "id": "mv-065",
   "title": "In Poor Things (2023), how is Bella Baxter brought into the world?",
-  "code": "",
+  
   "options": ["Through a technological cloning device", "Through resurrection by an eccentric scientist", "Through a royal adoption", "Through a magical ritual"],
   "correctIndex": 1,
   "explanation": "Dr. Godwin Baxter resurrects Bella, who then seeks worldly experience."
@@ -514,7 +514,7 @@
 {
   "id": "mv-066",
   "title": "In Our Father, the Devil (2023), what shocks Marie upon meeting the new priest?",
-  "code": "",
+  
   "options": ["He is her lost brother", "He is the man who saved her life", "He is the warlord who destroyed her family", "He speaks her native language fluently"],
   "correctIndex": 2,
   "explanation": "Marie recognizes him as the warlord responsible for her family’s killing."
@@ -522,7 +522,7 @@
 {
   "id": "mv-067",
   "title": "Mami Wata (2023) depicts conflict in a village devoted to which deity?",
-  "code": "",
+  
   "options": ["Ogun", "Mami Wata", "Shango", "Eshu"],
   "correctIndex": 1,
   "explanation": "The story unfolds in a community centered around the water spirit Mami Wata."
@@ -530,7 +530,7 @@
 {
   "id": "mv-068",
   "title": "Robot Dreams (2023) follows the friendship between which characters?",
-  "code": "",
+  
   "options": ["A boy and a dragon", "A dog and a robot he builds", "A chef and a stray cat", "Two androids in NYC"],
   "correctIndex": 1,
   "explanation": "Dog builds Robot to cure his loneliness, forming a deep bond."
@@ -538,7 +538,7 @@
 {
   "id": "mv-069",
   "title": "In Walk Up (2023), Byungsoo visits a building owned by whom?",
-  "code": "",
+  
   "options": ["His sister", "A famous actor", "An old friend who is an established designer", "A real estate agent"],
   "correctIndex": 2,
   "explanation": "He and his daughter tour a multi-purpose building owned by a designer friend."
@@ -546,7 +546,7 @@
 {
   "id": "mv-070",
   "title": "All Dirt Roads Taste of Salt (2023) spans what setting?",
-  "code": "",
+  
   "options": ["Rural Mississippi over decades", "Urban Chicago in one year", "A single Louisiana town during the 1950s", "New York coastlines"],
   "correctIndex": 0,
   "explanation": "The film traces a woman’s life across generations in Mississippi."
@@ -554,7 +554,7 @@
 {
   "id": "mv-071",
   "title": "Blue Jean (2023) centers on what political moment in the UK?",
-  "code": "",
+  
   "options": ["The Brexit referendum", "The introduction of Section 28", "The miners’ strike", "The 2012 Olympics"],
   "correctIndex": 1,
   "explanation": "Jean struggles with her identity as Thatcher’s government passes Section 28 targeting LGBTQ people."
@@ -562,7 +562,7 @@
 {
   "id": "mv-072",
   "title": "Renaissance: A Film by Beyoncé (2023) documents what?",
-  "code": "",
+  
   "options": ["The making of Lemonade", "The Renaissance World Tour from conception to finale", "A studio recording session", "Beyoncé’s early life"],
   "correctIndex": 1,
   "explanation": "The film presents the creation and execution of the Renaissance World Tour."
@@ -570,7 +570,7 @@
 {
   "id": "mv-073",
   "title": "Anatomy of a Fall (2023) revolves around determining what?",
-  "code": "",
+  
   "options": ["The legitimacy of a will", "Whether Samuel’s death was suicide or murder", "A child custody dispute", "A missing person case"],
   "correctIndex": 1,
   "explanation": "Sandra becomes the prime suspect when her husband is found dead outside their chalet."
@@ -578,7 +578,7 @@
 {
   "id": "mv-074",
   "title": "Fallen Leaves (2023) depicts a romance between two what?",
-  "code": "",
+  
   "options": ["Teenagers", "Middle-aged strangers in Helsinki", "Elderly widowers", "Musicians"],
   "correctIndex": 1,
   "explanation": "Two lonely, working-class strangers attempt to build a connection in modern-day Helsinki."
@@ -586,7 +586,7 @@
 {
   "id": "mv-075",
   "title": "In Aftersun (2022), what is Sophie trying to reconcile?",
-  "code": "",
+  
   "options": ["Her parents’ divorce", "The father she knew with the man she didn’t", "Her desire to leave home", "Her lost childhood memories"],
   "correctIndex": 1,
   "explanation": "Sophie reflects on holiday memories as she tries to understand the father she only partly knew."
@@ -594,7 +594,7 @@
 {
   "id": "mv-076",
   "title": "TÁR (2022) follows Lydia Tár, who holds what historic distinction?",
-  "code": "",
+  
   "options": ["First woman to win a Pulitzer", "First female chief conductor of a major German orchestra", "First female composer of a national anthem", "First woman to direct the Vienna Opera"],
   "correctIndex": 1,
   "explanation": "Lydia Tár is portrayed as the first female chief conductor of a major German orchestra."
@@ -602,7 +602,7 @@
 {
   "id": "mv-077",
   "title": "No Bears (2022) features what central narrative device?",
-  "code": "",
+  
   "options": ["Two parallel love stories", "A political campaign", "A courtroom drama", "A time-loop romance"],
   "correctIndex": 0,
   "explanation": "The film presents two parallel love stories shaped by power structures and superstition."
@@ -610,7 +610,7 @@
 {
   "id": "mv-078",
   "title": "All the Beauty and the Bloodshed (2022) centers on which activist figure?",
-  "code": "",
+  
   "options": ["Ai Weiwei", "Nan Goldin", "Marina Abramović", "Barbara Kruger"],
   "correctIndex": 1,
   "explanation": "The documentary follows Nan Goldin’s art, activism, and fight against the Sackler family."
@@ -618,7 +618,7 @@
 {
   "id": "mv-079",
   "title": "Hit the Road (2022) follows what type of journey?",
-  "code": "",
+  
   "options": ["A pilgrimage", "A smuggling route", "A family road trip across Iran", "A political escape"],
   "correctIndex": 2,
   "explanation": "A family of four travels across the Iranian countryside, bonding and confronting uncertainty."
@@ -626,7 +626,7 @@
 {
   "id": "mv-080",
   "title": "The Worst Person in the World (2022) tells the story in how many chapters?",
-  "code": "",
+  
   "options": ["Three", "Seven", "Twelve", "Twenty"],
   "correctIndex": 2,
   "explanation": "Julie’s story unfolds in twelve chapters covering several years of her life."
@@ -634,7 +634,7 @@
 {
   "id": "mv-081",
   "title": "Great Freedom (2022) revolves around Hans, who is repeatedly imprisoned under which law?",
-  "code": "",
+  
   "options": ["Paragraph 175 criminalizing homosexuality", "A sedition act", "A political dissent law", "A military desertion code"],
   "correctIndex": 0,
   "explanation": "Hans is imprisoned again and again under Paragraph 175 in postwar Germany."
@@ -642,7 +642,7 @@
 {
   "id": "mv-082",
   "title": "Mr. Bachmann and His Class (2022) documents the work of a teacher in what kind of setting?",
-  "code": "",
+  
   "options": ["A remote village", "A multilingual, immigrant-rich German classroom", "A private academy", "A rural vocational school"],
   "correctIndex": 1,
   "explanation": "The teacher works with students from many countries in a diverse German city."
@@ -650,7 +650,7 @@
 {
   "id": "mv-083",
   "title": "In The Quiet Girl (2022), where is Cait sent for the summer?",
-  "code": "",
+  
   "options": ["A boarding school", "A religious retreat", "Foster parents in rural Ireland", "Her aunt’s city home"],
   "correctIndex": 2,
   "explanation": "Cait is sent to live with foster parents, where she begins to thrive."
@@ -658,7 +658,7 @@
 {
   "id": "mv-084",
   "title": "Three Minutes: A Lengthening (2022) expands on footage shot in which year?",
-  "code": "",
+  
   "options": ["1921", "1938", "1945", "1953"],
   "correctIndex": 1,
   "explanation": "The documentary dissects three minutes of 1938 footage of the Jewish residents of Nasielsk."
@@ -666,7 +666,7 @@
 {
   "id": "mv-085",
   "title": "Aftershock (2022) responds to what pressing crisis?",
-  "code": "",
+  
   "options": ["Gun violence", "Climate disasters", "The U.S. maternal health crisis", "Hospital corruption"],
   "correctIndex": 2,
   "explanation": "The film confronts the maternal mortality crisis following two preventable deaths."
@@ -674,7 +674,7 @@
 {
   "id": "mv-086",
   "title": "A Night of Knowing Nothing (2022) reveals social unrest through what narrative device?",
-  "code": "",
+  
   "options": ["A video diary", "Fictional love letters", "A police investigation", "Radio broadcasts"],
   "correctIndex": 1,
   "explanation": "The story unfolds through fictional letters found in a film-school cupboard."
@@ -682,7 +682,7 @@
 {
   "id": "mv-087",
   "title": "Return to Seoul (2022) follows Freddie as she returns to which country?",
-  "code": "",
+  
   "options": ["Japan", "South Korea", "China", "Vietnam"],
   "correctIndex": 1,
   "explanation": "Freddie returns to South Korea, where she was born before her adoption."
@@ -690,7 +690,7 @@
 {
   "id": "mv-088",
   "title": "All That Breathes (2022) focuses on the rescue of which bird?",
-  "code": "",
+  
   "options": ["Snowy owl", "Flamingo", "Black kite", "Red-tailed hawk"],
   "correctIndex": 2,
   "explanation": "Two brothers run a makeshift bird hospital to save black kites in New Delhi."
@@ -698,7 +698,7 @@
 {
   "id": "mv-089",
   "title": "Descendant (2022) investigates the legacy of which ship?",
-  "code": "",
+  
   "options": ["La Amistad", "The Mayflower", "The Clotilda", "The Wanderer"],
   "correctIndex": 2,
   "explanation": "The Clotilda was the last illegal slave ship to reach the U.S., central to the film’s inquiry."
@@ -706,7 +706,7 @@
 {
   "id": "mv-090",
   "title": "The Banshees of Inisherin (2022) begins with what shocking event?",
-  "code": "",
+  
   "options": ["Colm ending his friendship with Padraic", "A village murder", "A church burning", "A shipwreck"],
   "correctIndex": 0,
   "explanation": "Colm abruptly ends the lifelong friendship, triggering escalating conflict."
@@ -714,7 +714,7 @@
 {
   "id": "mv-091",
   "title": "Playground (2022) primarily explores what theme?",
-  "code": "",
+  
   "options": ["Political indoctrination", "Sibling loyalty amid school bullying", "Substance abuse", "Teacher misconduct"],
   "correctIndex": 1,
   "explanation": "Nora watches her brother Abel being bullied and faces pressure to remain silent."
@@ -722,7 +722,7 @@
 {
   "id": "mv-092",
   "title": "Happening (2022) follows Anne as she attempts what in 1963 France?",
-  "code": "",
+  
   "options": ["To flee the country", "To obtain a clandestine abortion", "To track down her birth parents", "To join a political movement"],
   "correctIndex": 1,
   "explanation": "Anne risks shame, pain, and prison seeking an abortion to save her future."
@@ -730,7 +730,7 @@
 {
   "id": "mv-093",
   "title": "My Imaginary Country (2022) covers massive protests in which city?",
-  "code": "",
+  
   "options": ["Buenos Aires", "Madrid", "Santiago, Chile", "Bogotá"],
   "correctIndex": 2,
   "explanation": "Patricio Guzmán documents the Chilean uprising in Santiago."
@@ -738,7 +738,7 @@
 {
   "id": "mv-094",
   "title": "One Fine Morning (2022) centers on Sandra juggling what two major challenges?",
-  "code": "",
+  
   "options": ["Motherhood and a new job", "Illness and immigration problems", "Caring for her sick father and an affair", "Financial struggles and a legal battle"],
   "correctIndex": 2,
   "explanation": "Sandra cares for her ailing father while entering a relationship with a married friend."
@@ -746,7 +746,7 @@
 {
   "id": "mv-095",
   "title": "In Front of Your Face (2022) follows Sangok as she returns to which city?",
-  "code": "",
+  
   "options": ["Tokyo", "Sydney", "Busan", "Seoul"],
   "correctIndex": 3,
   "explanation": "Sangok returns to Seoul after living abroad and confronts hidden truths."
@@ -754,7 +754,7 @@
 {
   "id": "mv-096",
   "title": "Decision to Leave (2022) begins with the death of a man who fell from where?",
-  "code": "",
+  
   "options": ["A lighthouse", "A mountain peak", "A construction crane", "A seaside cliff"],
   "correctIndex": 1,
   "explanation": "Detective Hae-joon investigates after a man falls from a mountain summit."
@@ -762,7 +762,7 @@
 {
   "id": "mv-097",
   "title": "The Fabelmans (2022) centers on Sammy Fabelman’s passion for what?",
-  "code": "",
+  
   "options": ["Physics", "Filmmaking", "Astronomy", "Architecture"],
   "correctIndex": 1,
   "explanation": "Sammy’s love for filmmaking drives the coming-of-age story."
@@ -770,7 +770,7 @@
 {
   "id": "mv-098",
   "title": "Quo Vadis, Aida? (2021) is set during which historical event?",
-  "code": "",
+  
   "options": ["The Kosovo War", "The Siege of Sarajevo", "The Srebrenica genocide", "The Croatian War of Independence"],
   "correctIndex": 2,
   "explanation": "The film is set in Srebrenica in July 1995, leading up to the genocide."
@@ -778,7 +778,7 @@
 {
   "id": "mv-099",
   "title": "Summer of Soul (2021) centers on which long-unseen event?",
-  "code": "",
+  
   "options": ["The Newport Folk Festival", "The Harlem Cultural Festival", "The Detroit Jazz Festival", "The Monterey Pop Festival"],
   "correctIndex": 1,
   "explanation": "The documentary showcases the 1969 Harlem Cultural Festival, whose footage sat unseen for 50 years."
@@ -786,7 +786,7 @@
 {
   "id": "mv-100",
   "title": "Rocks (2021) follows a teenage girl who must care for whom?",
-  "code": "",
+  
   "options": ["Her grandmother", "Her younger brother", "Her baby daughter", "Her cousin"],
   "correctIndex": 1,
   "explanation": "Rocks suddenly becomes responsible for her younger brother after their mother disappears."
@@ -794,7 +794,7 @@
 {
   "id": "mv-101",
   "title": "Petite Maman (2021) begins after Nelly experiences which loss?",
-  "code": "",
+  
   "options": ["Her dog", "Her mother", "Her grandmother", "Her best friend"],
   "correctIndex": 2,
   "explanation": "Nelly has just lost her grandmother and is helping clean out her mother’s childhood home."
@@ -802,7 +802,7 @@
 {
   "id": "mv-102",
   "title": "In Memoria (2021), what triggers Jessica’s strange experiences?",
-  "code": "",
+  
   "options": ["A recurring dream", "A mysterious loud bang at dawn", "A vision in the jungle", "A near-death experience"],
   "correctIndex": 1,
   "explanation": "A loud bang heard at daybreak sparks a chain of sensory disturbances."
@@ -810,7 +810,7 @@
 {
   "id": "mv-103",
   "title": "Days (2021) centers on the meeting between Kang and Non under what circumstances?",
-  "code": "",
+  
   "options": ["A political protest", "A spiritual retreat", "Illness and loneliness abroad", "A chance reunion between old friends"],
   "correctIndex": 2,
   "explanation": "Kang, adrift from illness, meets Non in a foreign country, providing each other brief consolation."
@@ -818,15 +818,15 @@
 {
   "id": "mv-104",
   "title": "Drive My Car (2021) features Misaki Watari in what role?",
-  "code": "",
-  "options": ["Stage actress", "Choreographer", "Yusuke’s driver", "Festival director"],
+  
+  "options": ["Stage actor", "Choreographer", "Yusuke’s driver", "Festival director"],
   "correctIndex": 2,
   "explanation": "Misaki is assigned to chauffeur Yusuke Kafuku in his red Saab 900."
 },
 {
   "id": "mv-105",
   "title": "Flee (2021) recounts Amin's story primarily through what medium?",
-  "code": "",
+  
   "options": ["Live-action reenactments", "Claymation", "Narration over still photos", "Animation"],
   "correctIndex": 3,
   "explanation": "The film uses animation to tell Amin’s refugee story."
@@ -834,7 +834,7 @@
 {
   "id": "mv-106",
   "title": "This Is Not a Burial, It’s a Resurrection (2021) features Mantoa fighting against what threat?",
-  "code": "",
+  
   "options": ["A mining company", "A dam project that would flood her village", "A military occupation", "A corrupt mayor"],
   "correctIndex": 1,
   "explanation": "A planned dam would displace her community and destroy the burial grounds."
@@ -842,7 +842,7 @@
 {
   "id": "mv-107",
   "title": "Licorice Pizza (2021) is set in which decade?",
-  "code": "",
+  
   "options": ["1950s", "1960s", "1970s", "1980s"],
   "correctIndex": 2,
   "explanation": "The story follows Alana and Gary in the San Fernando Valley in 1973."
@@ -850,7 +850,7 @@
 {
   "id": "mv-108",
   "title": "Procession (2021) follows six men using what process to confront trauma?",
-  "code": "",
+  
   "options": ["Hypnosis", "Drama therapy and reenactments", "Silent meditation", "Group painting sessions"],
   "correctIndex": 1,
   "explanation": "The survivors create dramatic scenes to process their childhood abuse by clergy."
@@ -858,7 +858,7 @@
 {
   "id": "mv-109",
   "title": "Wojnarowicz (2021) documents the work of an artist active during which crisis?",
-  "code": "",
+  
   "options": ["Vietnam War", "AIDS epidemic", "Cold War", "Civil Rights Movement"],
   "correctIndex": 1,
   "explanation": "David Wojnarowicz’s activism was central during the AIDS epidemic in 1980s New York."
@@ -866,7 +866,7 @@
 {
   "id": "mv-110",
   "title": "The Souvenir: Part II (2021) follows Julie as she creates what?",
-  "code": "",
+  
   "options": ["A documentary about her family", "A graduation film processing her past relationship", "A script about her childhood", "A theatre adaptation"],
   "correctIndex": 1,
   "explanation": "Julie turns to filmmaking to untangle the truth of her painful relationship."
@@ -874,7 +874,7 @@
 {
   "id": "mv-111",
   "title": "The Power of the Dog (2021) centers on Phil Burbank, who is known for what demeanor?",
-  "code": "",
+  
   "options": ["Generosity", "Fear and awe he inspires", "Academic brilliance", "Political ambition"],
   "correctIndex": 1,
   "explanation": "Phil’s charisma is intimidating and manipulative, shaping the ranch’s emotional landscape."
@@ -882,7 +882,7 @@
 {
   "id": "mv-112",
   "title": "Azor (2021) follows a banker traveling to which country during a dictatorship?",
-  "code": "",
+  
   "options": ["Brazil", "Chile", "Argentina", "Paraguay"],
   "correctIndex": 2,
   "explanation": "A Swiss private banker arrives in Argentina to investigate his partner’s disappearance."
@@ -890,7 +890,7 @@
 {
   "id": "mv-113",
   "title": "The Father (2021) uses what technique to depict Anthony’s condition?",
-  "code": "",
+  
   "options": ["Multiple narrators", "A nonlinear environment shifting with his memory", "Flashback voiceovers", "Fantasy sequences"],
   "correctIndex": 1,
   "explanation": "Rooms, people, and timelines subtly shift to reflect Anthony’s unraveling memory."
@@ -898,7 +898,7 @@
 {
   "id": "mv-114",
   "title": "Parallel Mothers (2021) begins with Janis and Ana meeting where?",
-  "code": "",
+  
   "options": ["A photography studio", "A prison", "A hospital maternity ward", "A train station"],
   "correctIndex": 2,
   "explanation": "The women meet in the maternity ward as they prepare to give birth."
@@ -906,7 +906,7 @@
 {
   "id": "mv-115",
   "title": "The Human Voice (2021) centers on a woman waiting for what?",
-  "code": "",
+  
   "options": ["Her son’s return", "A job interview", "Her ex-lover to pick up his suitcases", "A court verdict"],
   "correctIndex": 2,
   "explanation": "She waits beside her ex-lover’s suitcases, though he never arrives."
@@ -914,7 +914,7 @@
 {
   "id": "mv-116",
   "title": "The Velvet Underground (2021) explores the rise of what?",
-  "code": "",
+  
   "options": ["New York punk clubs", "The American folk revival", "One of rock’s most influential avant-garde bands", "The disco movement"],
   "correctIndex": 2,
   "explanation": "Todd Haynes documents the avant-garde band’s formation and cultural impact."
@@ -922,7 +922,7 @@
 {
   "id": "mv-117",
   "title": "Attica (2021) recounts the 1971 uprising at what institution?",
-  "code": "",
+  
   "options": ["San Quentin", "Attica Correctional Facility", "Rikers Island", "Sing Sing"],
   "correctIndex": 1,
   "explanation": "The film revisits the Attica prison uprising and its lasting implications."
@@ -930,7 +930,7 @@
 {
   "id": "mv-118",
   "title": "Can You Bring It: Bill T. Jones and D-Man in the Waters (2021) explores the legacy of which art form?",
-  "code": "",
+  
   "options": ["Opera", "Contemporary dance", "Street graffiti", "Experimental theatre"],
   "correctIndex": 1,
   "explanation": "The documentary examines the creation and legacy of Bill T. Jones’ iconic dance work."
@@ -938,7 +938,7 @@
 {
   "id": "mv-119",
   "title": "About Endlessness (2021) uses what narrative style?",
-  "code": "",
+  
   "options": ["A single continuous take", "Dreamlike vignettes narrated as fables", "Found-footage montage", "Traditional three-act drama"],
   "correctIndex": 1,
   "explanation": "The film unfolds through poetic, dreamlike tableaux linked by a narrator."
@@ -946,7 +946,7 @@
 {
   "id": "mv-120",
   "title": "Hope (2021) follows Anja and Tomas as they confront what crisis?",
-  "code": "",
+  
   "options": ["Financial ruin", "Infertility", "A terminal cancer diagnosis", "A missing child"],
   "correctIndex": 2,
   "explanation": "Anja’s terminal diagnosis forces the couple to rebuild trust and face mortality together."
@@ -954,7 +954,7 @@
 {
   "id": "mv-121",
   "title": "Small Axe: Lovers Rock (2020) is set during what event?",
-  "code": "",
+  
   "options": ["A reggae festival", "A house party in 1980s West London", "A street protest", "A wedding celebration"],
   "correctIndex": 1,
   "explanation": "The film takes place over one night at a house party filled with romance, tension, and music."
@@ -962,7 +962,7 @@
 {
   "id": "mv-122",
   "title": "Collective (2020) begins investigating corruption after what incident?",
-  "code": "",
+  
   "options": ["A political assassination", "A train explosion", "A deadly nightclub fire", "A hospital collapse"],
   "correctIndex": 2,
   "explanation": "A nightclub fire exposes dysfunction and corruption that journalists uncover at a national scale."
@@ -970,7 +970,7 @@
 {
   "id": "mv-123",
   "title": "David Byrne’s American Utopia (2020) documents which performance?",
-  "code": "",
+  
   "options": ["A farewell concert", "A reunion tour", "A Broadway stage show by David Byrne", "A Carnegie Hall retrospective"],
   "correctIndex": 2,
   "explanation": "Spike Lee directs the filmed version of Byrne’s acclaimed Broadway production."
@@ -978,7 +978,7 @@
 {
   "id": "mv-124",
   "title": "Never Rarely Sometimes Always (2020) follows Autumn as she travels to New York City for what purpose?",
-  "code": "",
+  
   "options": ["A job interview", "Medical care for her friend", "An abortion unavailable in her home state", "A scholarship audition"],
   "correctIndex": 2,
   "explanation": "Autumn and Skylar cross state lines to obtain an abortion and navigate a difficult system."
@@ -986,7 +986,7 @@
 {
   "id": "mv-125",
   "title": "Time (2020) focuses on Fox Rich’s decades-long fight to free whom?",
-  "code": "",
+  
   "options": ["Her brother", "Her eldest son", "Her husband Rob", "Her father"],
   "correctIndex": 2,
   "explanation": "Fox Rich campaigns for her husband Rob’s release from a 60-year sentence."
@@ -994,7 +994,7 @@
 {
   "id": "mv-126",
   "title": "First Cow (2020) centers on a business venture reliant on what?",
-  "code": "",
+  
   "options": ["Illegal moonshine", "Conflict-free beaver pelts", "Secretly stealing milk from a landowner’s prized cow", "Smuggling gold dust"],
   "correctIndex": 2,
   "explanation": "The men build a business using milk taken covertly from a wealthy landowner’s cow."
@@ -1002,7 +1002,7 @@
 {
   "id": "mv-127",
   "title": "Small Axe: Mangrove (2020) tells the story of which real trial?",
-  "code": "",
+  
   "options": ["The Brixton 12", "The Notting Hill Nine", "The Mangrove Nine", "The Tottenham Three"],
   "correctIndex": 2,
   "explanation": "The Mangrove Nine trial followed arrests after protests against police harassment."
@@ -1010,7 +1010,7 @@
 {
   "id": "mv-128",
   "title": "Minari (2020) follows a Korean-American family trying to farm where?",
-  "code": "",
+  
   "options": ["Rural California", "Northern Texas", "The Ozarks in Arkansas", "Georgia farmland"],
   "correctIndex": 2,
   "explanation": "The Yi family moves to rural Arkansas to build their own farm and future."
@@ -1018,7 +1018,7 @@
 {
   "id": "mv-129",
   "title": "Gunda (2020) focuses primarily on what?",
-  "code": "",
+  
   "options": ["A tiger reserve", "A scientific expedition", "Daily life of farm animals filmed in black-and-white", "Urban wildlife in Europe"],
   "correctIndex": 2,
   "explanation": "The film observes pigs, chickens, and cows with meditative intimacy."
@@ -1026,7 +1026,7 @@
 {
   "id": "mv-130",
   "title": "Dick Johnson Is Dead (2020) presents imaginative scenes depicting what?",
-  "code": "",
+  
   "options": ["A future society", "Kirsten Johnson’s childhood memories", "Her father’s staged, fantastical deaths", "Dreams recorded during sleep experiments"],
   "correctIndex": 2,
   "explanation": "The filmmaker stages elaborate fictional deaths for her father as a way to cope with loss."
@@ -1034,7 +1034,7 @@
 {
   "id": "mv-131",
   "title": "City Hall (2020) documents what institution’s daily work?",
-  "code": "",
+  
   "options": ["New York State Legislature", "Chicago police department", "Boston city government", "U.S. Congress"],
   "correctIndex": 2,
   "explanation": "Frederick Wiseman chronicles Boston’s municipal government and civic services."
@@ -1042,7 +1042,7 @@
 {
   "id": "mv-132",
   "title": "Hamilton (2020) is a filmed version of what?",
-  "code": "",
+  
   "options": ["A touring production", "A Hollywood adaptation", "The original Broadway cast performance", "A live concert tribute"],
   "correctIndex": 2,
   "explanation": "The movie captures the original Broadway cast filmed live at the Richard Rodgers Theatre."
@@ -1050,7 +1050,7 @@
 {
   "id": "mv-133",
   "title": "Wolfwalkers (2020) features Robyn befriending whom?",
-  "code": "",
+  
   "options": ["A witch", "A forest spirit", "A girl from a wolf-transforming tribe", "A runaway prince"],
   "correctIndex": 2,
   "explanation": "Robyn bonds with Mebh, a girl whose people transform into wolves at night."
@@ -1058,7 +1058,7 @@
 {
   "id": "mv-134",
   "title": "Ma Rainey’s Black Bottom (2020) is set during what type of event?",
-  "code": "",
+  
   "options": ["A national tour", "A recording session in 1920s Chicago", "A courtroom hearing", "Ma Rainey’s retirement show"],
   "correctIndex": 1,
   "explanation": "The story unfolds over one intense recording session where conflicts erupt."
@@ -1066,7 +1066,7 @@
 {
   "id": "mv-135",
   "title": "Small Axe: Education (2020) focuses on what injustice?",
-  "code": "",
+  
   "options": ["Housing discrimination", "Police brutality", "Educational segregation of Black children", "Unlawful deportations"],
   "correctIndex": 2,
   "explanation": "Kingsley is wrongly sent to a school for 'special needs' children under a discriminatory policy."
@@ -1074,7 +1074,7 @@
 {
   "id": "mv-136",
   "title": "Nomadland (2020) follows Fern as she adopts what lifestyle?",
-  "code": "",
+  
   "options": ["Wilderness hermit", "Cross-country van-dwelling nomad", "Gold prospector", "Park ranger"],
   "correctIndex": 1,
   "explanation": "After losing her town and job, Fern travels the American West in her van."
@@ -1082,7 +1082,7 @@
 {
   "id": "mv-137",
   "title": "Rewind (2020) is constructed using what source?",
-  "code": "",
+  
   "options": ["Police files", "Court transcripts", "A vast archive of family home videos", "Anonymous interviews"],
   "correctIndex": 2,
   "explanation": "The filmmaker pieces together his childhood trauma through his father’s video recordings."
@@ -1090,7 +1090,7 @@
 {
   "id": "mv-138",
   "title": "What the Constitution Means to Me (2020) documents what?",
-  "code": "",
+  
   "options": ["A Senate trial", "A high school debate championship", "A filmed Broadway play by Heidi Schreck", "A constitutional law class"],
   "correctIndex": 2,
   "explanation": "It is a filmed version of Heidi Schreck’s acclaimed Broadway play."
@@ -1098,7 +1098,7 @@
 {
   "id": "mv-139",
   "title": "The Wolf House (2020) uses animation to depict Maria’s escape from what?",
-  "code": "",
+  
   "options": ["A political prison", "A mining colony", "A sect inspired by Colonia Dignidad", "A military camp"],
   "correctIndex": 2,
   "explanation": "Maria flees a cult modeled on the real Colonia Dignidad and enters a nightmarish house."
@@ -1106,7 +1106,7 @@
 {
   "id": "mv-140",
   "title": "Divine Love (2020) portrays Joana working in what unusual future setting?",
-  "code": "",
+  
   "options": ["A floating city", "A virtual court", "A bureaucratic office in 2027 Brazil influencing marriages", "A religious tribunal on Mars"],
   "correctIndex": 2,
   "explanation": "Joana uses her government post to steer couples toward reconciliation through a religious cult."
@@ -1114,7 +1114,7 @@
 {
   "id": "mv-141",
   "title": "Welcome to Chechnya (2020) follows activists protecting whom?",
-  "code": "",
+  
   "options": ["Political dissidents", "Writers facing censorship", "LGBTQ+ Chechens fleeing persecution", "Journalists under threat"],
   "correctIndex": 2,
   "explanation": "The film documents activists rescuing LGBTQ+ people from the region’s ongoing pogrom."
@@ -1122,9 +1122,2197 @@
 {
   "id": "mv-142",
   "title": "Vitalina Varela (2020) follows the title character arriving in Lisbon only to discover what?",
-  "code": "",
+  
   "options": ["Her husband has remarried", "Her documents are invalid", "Her husband died days earlier", "Her home has been destroyed"],
   "correctIndex": 2,
   "explanation": "Vitalina arrives after decades apart, only to learn her husband has just been buried."
-}
+},
+{
+  "id": "mv-143",
+  "title": "Parasite (2019) centers on the Kim family's attempt to do what?",
+  
+  "options": ["Expose corporate corruption", "Infiltrate a wealthy household by posing as skilled workers", "Escape from political persecution", "Start a luxury business"],
+  "correctIndex": 1,
+  "explanation": "The Kims embed themselves as tutors and staff to the affluent Park family to improve their financial situation."
+},
+{
+  "id": "mv-144",
+  "title": "Portrait of a Lady on Fire (2019) follows Marianne, who is secretly hired to do what?",
+  
+  "options": ["Paint a banned political mural", "Create a portrait of Héloïse without her knowledge", "Forge aristocratic documents", "Restore a ruined cathedral fresco"],
+  "correctIndex": 1,
+  "explanation": "Marianne must paint Héloïse’s wedding portrait in secret because Héloïse refuses to pose."
+},
+{
+  "id": "mv-145",
+  "title": "The Irishman (2019) tells the story of Frank Sheeran, whose involvement includes what major historical mystery?",
+  
+  "options": ["Watergate burglary", "Jimmy Hoffa’s disappearance", "The Enron collapse", "The Pentagon Papers leak"],
+  "correctIndex": 1,
+  "explanation": "Sheeran recounts his ties to organized crime and his alleged role in the disappearance of Jimmy Hoffa."
+},
+{
+  "id": "mv-146",
+  "title": "Marriage Story (2019) primarily explores what?",
+  
+  "options": ["A political campaign unraveling", "A marriage dissolving through a bicoastal divorce", "A criminal investigation dividing a family", "A couple’s struggle with illness"],
+  "correctIndex": 1,
+  "explanation": "Noah Baumbach’s film depicts a couple navigating a painful, emotionally complex divorce."
+},
+{
+  "id": "mv-147",
+  "title": "Uncut Gems (2019) follows Howard Ratner’s pursuit of what?",
+  
+  "options": ["A stolen necklace", "A rare black opal and a massive gambling win", "A priceless painting", "A corrupt rival jeweler"],
+  "correctIndex": 1,
+  "explanation": "Howard bets everything on a rare opal and a risky series of wagers."
+},
+{
+  "id": "mv-148",
+  "title": "Apocalypse Now: Final Cut (2019) presents what type of film?",
+  
+  "options": ["A modern-day remake", "A 4K restoration positioned between the theatrical and Redux cuts", "A new documentary about the original production", "An animated reinterpretation"],
+  "correctIndex": 1,
+  "explanation": "This version rebalances added material and offers a meticulous 4K restoration."
+},
+{
+  "id": "mv-149",
+  "title": "The Souvenir (2019) centers on a film student who becomes involved with whom?",
+  
+  "options": ["A reclusive director", "A charismatic older man with troubling secrets", "A radical political activist", "A fellow student who disappears"],
+  "correctIndex": 1,
+  "explanation": "The protagonist enters a volatile relationship that shapes her early artistic identity."
+},
+{
+  "id": "mv-150",
+  "title": "Little Women (2019) tells the story of the March sisters through what distinctive narrative device?",
+  
+  "options": ["Told only through letters", "Nonlinear shifts between timelines", "A single continuous take", "A narrated anthology structure"],
+  "correctIndex": 1,
+  "explanation": "Gerwig’s adaptation crosscuts between the sisters’ childhood and adulthood."
+},
+{
+  "id": "mv-151",
+  "title": "63 Up (2019) is part of what long-running project?",
+  
+  "options": ["A British political chronicle", "A generational documentary series revisiting the same people every seven years", "A global census study", "A multi-director anthology"],
+  "correctIndex": 1,
+  "explanation": "Michael Apted’s series returns to the same subjects every seven years."
+},
+{
+  "id": "mv-152",
+  "title": "For Sama (2019) is framed as what?",
+  
+  "options": ["A military briefing", "A video diary and letter to the filmmaker’s daughter", "A reconstruction using actors", "A UN investigative report"],
+  "correctIndex": 1,
+  "explanation": "Waad al-Kateab documents motherhood and survival during the Syrian war for her daughter Sama."
+},
+{
+  "id": "mv-153",
+  "title": "The Farewell (2019) revolves around a family doing what?",
+  
+  "options": ["Planning a political protest", "Hiding a terminal diagnosis from their grandmother", "Smuggling a relative out of the country", "Staging an inheritance trial"],
+  "correctIndex": 1,
+  "explanation": "The family gathers under the pretense of a wedding to keep Nai Nai unaware of her illness."
+},
+{
+  "id": "mv-154",
+  "title": "Long Day’s Journey Into Night (2019) is especially noted for what cinematic feature?",
+  
+  "options": ["Being entirely animated", "A single 3D long take lasting nearly an hour", "Interactive branching narrative", "Reconstructed archival footage"],
+  "correctIndex": 1,
+  "explanation": "The film concludes with an hour-long, technically ambitious 3D long take."
+},
+{
+  "id": "mv-155",
+  "title": "Apollo 11 (2019) relies primarily on what material?",
+  
+  "options": ["Interviews with surviving astronauts", "Newly discovered 65mm archival footage and mission audio", "Dramatic reenactments", "Computer-generated recreations"],
+  "correctIndex": 1,
+  "explanation": "The film is built entirely from archival imagery and audio from the 1969 mission."
+},
+{
+  "id": "mv-156",
+  "title": "The Body Remembers When the World Broke Open (2019) centers on two Indigenous women brought together by what event?",
+  
+  "options": ["A protest march", "An incident of domestic violence", "A hospital mix-up", "A missing relative"],
+  "correctIndex": 1,
+  "explanation": "A chance encounter during a crisis creates an intimate portrait of care and vulnerability."
+},
+{
+  "id": "mv-157",
+  "title": "Pain and Glory (2019) follows a filmmaker reflecting on what?",
+  
+  "options": ["His lost film archive", "His past relationships and creative struggles", "A political scandal", "His exile from Spain"],
+  "correctIndex": 1,
+  "explanation": "Salvador revisits formative memories and relationships that shaped his artistic life."
+},
+{
+  "id": "mv-158",
+  "title": "Genèse (Genesis) (2019) focuses on what theme?",
+  
+  "options": ["Political revolution", "Three teenagers navigating first love and identity", "A mysterious cult initiation", "The collapse of a boarding school"],
+  "correctIndex": 1,
+  "explanation": "The film explores adolescence through overlapping stories of young people in emotional turmoil."
+},
+{
+  "id": "mv-159",
+  "title": "Rolling Thunder Revue (2019) portrays Bob Dylan’s 1975 tour through what hybrid approach?",
+  
+  "options": ["Strict biography", "Part documentary, part concert film, part staged mythmaking", "Animated sequences only", "Purely fictional narrative"],
+  "correctIndex": 1,
+  "explanation": "Scorsese blends fact and playful invention to depict the Rolling Thunder Revue."
+},
+{
+  "id": "mv-160",
+  "title": "Diane (2019) follows its title character as she does what?",
+  
+  "options": ["Runs for local office", "Cares for others while confronting a buried guilt", "Searches for a missing sister", "Reopens a family diner"],
+  "correctIndex": 1,
+  "explanation": "Diane tirelessly helps others while grappling with unresolved trauma."
+},
+{
+  "id": "mv-161",
+  "title": "An Elephant Sitting Still (2019) weaves together multiple characters linked by what?",
+  
+  "options": ["A regional music competition", "A rumor about a motionless circus elephant", "A local political election", "A gold smuggling ring"],
+  "correctIndex": 1,
+  "explanation": "Their lives intersect as they pursue the distant image of the immobile elephant."
+},
+{
+  "id": "mv-162",
+  "title": "One Cut of the Dead (2019) begins as a zombie film but then reveals what?",
+  
+  "options": ["It is a VR simulation gone wrong", "The zombie attack is part of a chaotic film-within-a-film production", "It is an alternate-reality experiment", "The zombies are actors rebelling"],
+  "correctIndex": 1,
+  "explanation": "The story transforms into a comedic behind-the-scenes look at a low-budget shoot."
+},
+{
+  "id": "mv-163",
+  "title": "Black Mother (2019) is structured as what kind of cinematic journey?",
+  
+  "options": ["A single-night road trip", "A multi-chapter spiritual portrait of Jamaica", "A courtroom testimony cycle", "A reenactment-based documentary"],
+  "correctIndex": 1,
+  "explanation": "Khalik Allah builds an immersive, polyphonic portrait of Jamaica across shifting chapters."
+},
+{
+  "id": "mv-164",
+  "title": "The Wild Pear Tree (2019) follows aspiring writer Sinan as he returns home seeking what?",
+  
+  "options": ["A lost manuscript", "Funds to publish his first book", "A reconciliation with his mentor", "A teaching position"],
+  "correctIndex": 1,
+  "explanation": "Sinan hopes to find support for publishing his manuscript while confronting his family’s struggles."
+},
+{
+  "id": "mv-165",
+  "title": "American Factory (2019) documents what cultural clash?",
+  
+  "options": ["Two rival unions in Detroit", "American and Chinese labor practices at an Ohio auto-glass factory", "Silicon Valley vs. Washington regulators", "Traditional manufacturing vs. automation in Texas"],
+  "correctIndex": 1,
+  "explanation": "The film observes tensions between Chinese management and American workers after a factory’s reopening."
+},
+{
+  "id": "mv-166",
+  "title": "Which actor portrays John Wick in the action film series?",
+  
+  "options": ["Keanu Reeves", "Liam Neeson", "Tom Hardy", "Chris Evans"],
+  "correctIndex": 0,
+  "explanation": "Keanu Reeves plays the titular assassin across the John Wick franchise."
+},
+{
+  "id": "mv-167",
+  "title": "Which actor won an Academy Award for 'La La Land'?",
+  
+  "options": ["Emma Stone", "Jennifer Lawrence", "Brie Larson", "Saoirse Ronan"],
+  "correctIndex": 0,
+  "explanation": "Emma Stone won Best actor for her performance in the film."
+},
+{
+  "id": "mv-168",
+  "title": "Which actor played Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+  
+  "options": ["Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo", "Paul Rudd"],
+  "correctIndex": 1,
+  "explanation": "Robert Downey Jr. originated and defined the character from 2008 to 2019."
+},
+{
+  "id": "mv-169",
+  "title": "Who played Katniss Everdeen in 'The Hunger Games'?",
+  
+  "options": ["Shailene Woodley", "Jennifer Lawrence", "Emma Watson", "Margot Robbie"],
+  "correctIndex": 1,
+  "explanation": "Jennifer Lawrence portrayed the protagonist in all four films."
+},
+{
+  "id": "mv-170",
+  "title": "Which late actor won a posthumous Oscar for playing the Joker in 'The Dark Knight'?",
+  
+  "options": ["Joaquin Phoenix", "Heath Ledger", "Jared Leto", "Christian Bale"],
+  "correctIndex": 1,
+  "explanation": "Heath Ledger's performance earned a posthumous Academy Award for Best Supporting Actor."
+},
+{
+  "id": "mv-171",
+  "title": "Which actor starred as Furiosa in 'Mad Max: Fury Road'?",
+  
+  "options": ["Charlize Theron", "Scarlett Johansson", "Emily Blunt", "Zoe Saldana"],
+  "correctIndex": 0,
+  "explanation": "Charlize Theron played Imperator Furiosa in the acclaimed action film."
+},
+{
+  "id": "mv-172",
+  "title": "Who portrays Captain America in most Marvel films?",
+  
+  "options": ["Chris Pine", "Chris Evans", "Chris Pratt", "Chris Hemsworth"],
+  "correctIndex": 1,
+  "explanation": "Chris Evans played Steve Rogers from 2011 to 2019."
+},
+{
+  "id": "mv-173",
+  "title": "Which actor stars as Neo in 'The Matrix' trilogy?",
+  
+  "options": ["Keanu Reeves", "Hugo Weaving", "Laurence Fishburne", "Clive Owen"],
+  "correctIndex": 0,
+  "explanation": "Keanu Reeves is known for his iconic role as Neo."
+},
+{
+  "id": "mv-174",
+  "title": "Who played Hermione Granger in the 'Harry Potter' series?",
+  
+  "options": ["Emma Watson", "Natalie Portman", "Keira Knightley", "Anna Kendrick"],
+  "correctIndex": 0,
+  "explanation": "Emma Watson portrayed Hermione across all eight films."
+},
+{
+  "id": "mv-175",
+  "title": "Which actor portrayed Freddie Mercury in 'Bohemian Rhapsody'?",
+  
+  "options": ["Rami Malek", "Ben Whishaw", "Taron Egerton", "Dev Patel"],
+  "correctIndex": 0,
+  "explanation": "Rami Malek won an Oscar for his performance as the Queen frontman."
+},
+{
+  "id": "mv-176",
+  "title": "Who stars as Black Widow in the Marvel films?",
+  
+  "options": ["Scarlett Johansson", "Brie Larson", "Elizabeth Olsen", "Anne Hathaway"],
+  "correctIndex": 0,
+  "explanation": "Scarlett Johansson played Natasha Romanoff for more than a decade."
+},
+{
+  "id": "mv-177",
+  "title": "Which actor voices Woody in the 'Toy Story' franchise?",
+  
+  "options": ["Tom Hanks", "Tim Allen", "Billy Crystal", "Jim Henson"],
+  "correctIndex": 0,
+  "explanation": "Tom Hanks provides the voice of Woody in all major installments."
+},
+{
+  "id": "mv-178",
+  "title": "Which actor played Rey in the Star Wars sequel trilogy?",
+  
+  "options": ["Felicity Jones", "Daisy Ridley", "Keira Knightley", "Emilia Clarke"],
+  "correctIndex": 1,
+  "explanation": "Daisy Ridley portrayed Rey from 2015 through 2019."
+},
+{
+  "id": "mv-179",
+  "title": "Who played Wolverine for nearly two decades?",
+  
+  "options": ["Hugh Jackman", "Gerard Butler", "Karl Urban", "Michael Fassbender"],
+  "correctIndex": 0,
+  "explanation": "Hugh Jackman played Logan across multiple X-Men films."
+},
+{
+  "id": "mv-180",
+  "title": "Which actor starred as the lead detective in 'Se7en'?",
+  
+  "options": ["Brad Pitt", "Kevin Spacey", "Morgan Freeman", "Edward Norton"],
+  "correctIndex": 0,
+  "explanation": "Brad Pitt plays Detective David Mills opposite Morgan Freeman."
+},
+{
+  "id": "mv-181",
+  "title": "Which actor played Clarice Starling in 'The Silence of the Lambs'?",
+  
+  "options": ["Jodie Foster", "Julianne Moore", "Michelle Pfeiffer", "Winona Ryder"],
+  "correctIndex": 0,
+  "explanation": "Jodie Foster won an Oscar for her performance as Clarice Starling."
+},
+{
+  "id": "mv-182",
+  "title": "Which actor played Jack in 'Titanic'?",
+  
+  "options": ["Leonardo DiCaprio", "Matt Damon", "Jake Gyllenhaal", "Orlando Bloom"],
+  "correctIndex": 0,
+  "explanation": "Leonardo DiCaprio starred opposite Kate Winslet in the 1997 epic."
+},
+{
+  "id": "mv-183",
+  "title": "Who portrayed Ellen Ripley in the 'Alien' series?",
+  
+  "options": ["Sigourney Weaver", "Jamie Lee Curtis", "Linda Hamilton", "Meryl Streep"],
+  "correctIndex": 0,
+  "explanation": "Sigourney Weaver originated the iconic sci-fi role."
+},
+{
+  "id": "mv-184",
+  "title": "Which actor starred as Forrest Gump?",
+  
+  "options": ["Matthew Modine", "Tom Hanks", "Kevin Costner", "Robin Williams"],
+  "correctIndex": 1,
+  "explanation": "Tom Hanks won an Oscar for his performance in the title role."
+},
+{
+  "id": "mv-185",
+  "title": "Which actor played Harley Quinn in 'Suicide Squad'?",
+  
+  "options": ["Margot Robbie", "Anna Paquin", "Krysten Ritter", "Amy Adams"],
+  "correctIndex": 0,
+  "explanation": "Margot Robbie's portrayal became one of the film's standout elements."
+},{
+  "id": "mv-186",
+  "title": "Which actor once worked as a circus entertainer and later became known for roles such as Gandalf and Magneto?",
+  
+  "options": ["Ian McKellen", "Patrick Stewart", "Christopher Lee", "Ben Kingsley"],
+  "correctIndex": 0,
+  "explanation": "Ian McKellen has spoken about performing in small touring shows and circuses before rising to stage prominence."
+},
+{
+  "id": "mv-187",
+  "title": "Which actor grew up in a Scientology household before becoming a major HBO drama star?",
+  
+  "options": ["Elisabeth Moss", "Nicole Kidman", "Laura Dern", "Michelle Williams"],
+  "correctIndex": 0,
+  "explanation": "Elisabeth Moss was raised in Scientology and later gained fame for 'Mad Men' and 'The Handmaid’s Tale'."
+},
+{
+  "id": "mv-188",
+  "title": "Which actor originally studied to be a priest before transitioning into acting?",
+  
+  "options": ["Liam Neeson", "Colin Firth", "Pierce Brosnan", "Brendan Gleeson"],
+  "correctIndex": 0,
+  "explanation": "Liam Neeson considered priesthood in his youth before discovering acting."
+},
+{
+  "id": "mv-189",
+  "title": "Which actor is multilingual and holds a psychology degree from Harvard?",
+  
+  "options": ["Natalie Portman", "Rooney Mara", "Jennifer Connelly", "Rachel Weisz"],
+  "correctIndex": 0,
+  "explanation": "Natalie Portman graduated from Harvard in psychology while maintaining an acting career."
+},
+{
+  "id": "mv-190",
+  "title": "Which actor trained as a professional tap dancer before becoming an Oscar-winning performer?",
+  
+  "options": ["Gene Kelly", "Christian Bale", "Anthony Hopkins", "Tom Holland"],
+  "correctIndex": 3,
+  "explanation": "Tom Holland trained in dance, particularly tap, before gaining fame as Spider-Man."
+},
+{
+  "id": "mv-191",
+  "title": "Which actor is also an ordained minister who has officiated several weddings?",
+  
+  "options": ["Emma Thompson", "Kate Hudson", "Angelina Jolie", "Fran Drescher"],
+  "correctIndex": 0,
+  "explanation": "Emma Thompson became ordained and has officiated multiple ceremonies."
+},
+{
+  "id": "mv-192",
+  "title": "Which actor survived a near-fatal horseback accident that influenced his later career choices?",
+  
+  "options": ["Christopher Reeve", "Viggo Mortensen", "Sam Elliott", "Robert Redford"],
+  "correctIndex": 0,
+  "explanation": "Christopher Reeve’s 1995 accident led him to advocacy and directing."
+},
+{
+  "id": "mv-193",
+  "title": "Which actor began her career as a war correspondent before turning to acting?",
+  
+  "options": ["Zoe Saldana", "Gal Gadot", "Hedy Lamarr", "Ingrid Bergman"],
+  "correctIndex": 1,
+  "explanation": "Gal Gadot served as a combat instructor and briefly worked in modeling and journalism before acting."
+},
+{
+  "id": "mv-194",
+  "title": "Which actor was homeless in his early years in LA before landing major comedic roles?",
+  
+  "options": ["Jim Carrey", "Robin Williams", "Chris Pratt", "Adam Sandler"],
+  "correctIndex": 2,
+  "explanation": "Chris Pratt lived in a van in Hawaii before he broke into acting."
+},
+{
+  "id": "mv-195",
+  "title": "Which actor is a skilled classical pianist and nearly pursued music professionally?",
+  
+  "options": ["Jessica Chastain", "Meryl Streep", "Amy Adams", "Anya Taylor-Joy"],
+  "correctIndex": 3,
+  "explanation": "Anya Taylor-Joy trained intensively in piano before focusing on acting."
+},
+{
+  "id": "mv-196",
+  "title": "Which actor holds a PhD in neuroscience and continued research while acting on a sitcom?",
+  
+  "options": ["Mayim Bialik", "Kaley Cuoco", "Mila Kunis", "Lisa Kudrow"],
+  "correctIndex": 0,
+  "explanation": "Mayim Bialik earned her doctorate in neuroscience before starring in 'The Big Bang Theory'."
+},
+{
+  "id": "mv-197",
+  "title": "Which actor is also a licensed helicopter pilot and frequently flies rescue missions?",
+  
+  "options": ["Harrison Ford", "Tom Cruise", "Bruce Willis", "Kevin Costner"],
+  "correctIndex": 0,
+  "explanation": "Harrison Ford has assisted in real-life rescue operations with his helicopter."
+},
+{
+  "id": "mv-198",
+  "title": "Which actor spent her early childhood on a commune in Nicaragua?",
+  
+  "options": ["Uma Thurman", "Salma Hayek", "Hilary Swank", "Megan Fox"],
+  "correctIndex": 0,
+  "explanation": "Uma Thurman’s early years included time on a Nicaraguan commune with her family."
+},
+{
+  "id": "mv-199",
+  "title": "Which actor apprenticed as a cobbler before becoming a multiple-Oscar-winning performer?",
+  
+  "options": ["Daniel Day-Lewis", "Gary Oldman", "Javier Bardem", "Ralph Fiennes"],
+  "correctIndex": 0,
+  "explanation": "Daniel Day-Lewis famously paused acting to train as a shoemaker in Italy."
+},
+{
+  "id": "mv-200",
+  "title": "Which actor originally planned to become a marine biologist before being discovered?",
+  
+  "options": ["Jennifer Garner", "Nicole Kidman", "Kate Winslet", "Jessica Alba"],
+  "correctIndex": 3,
+  "explanation": "Jessica Alba has spoken about wanting to pursue marine biology before entering acting."
+},
+{
+  "id": "mv-201",
+  "title": "Which actor is fluent in six languages, including German and Swahili?",
+  
+  "options": ["Forest Whitaker", "Idris Elba", "Viggo Mortensen", "Don Cheadle"],
+  "correctIndex": 2,
+  "explanation": "Viggo Mortensen speaks numerous languages due to his multicultural upbringing."
+},
+{
+  "id": "mv-202",
+  "title": "Which actor began her career as a professional boxer before acting?",
+  
+  "options": ["Michelle Rodriguez", "Halle Berry", "Charlize Theron", "Gina Carano"],
+  "correctIndex": 3,
+  "explanation": "Gina Carano transitioned from MMA competition to film roles."
+},
+{
+  "id": "mv-203",
+  "title": "Which actor earned a college degree in biomedical engineering before pursuing films?",
+  
+  "options": ["Ken Jeong", "Ashton Kutcher", "John Krasinski", "Chadwick Boseman"],
+  "correctIndex": 0,
+  "explanation": "Ken Jeong studied medicine and practiced as a physician before comedy and acting."
+},
+{
+  "id": "mv-204",
+  "title": "Which actor was discovered while working at a fast-food restaurant at age 16?",
+  
+  "options": ["Eva Mendes", "Jennifer Lopez", "Halle Berry", "Angelina Jolie"],
+  "correctIndex": 0,
+  "explanation": "Eva Mendes was scouted while working a retail and food-service job."
+},
+{
+  "id": "mv-205",
+  "title": "Which actor is known for being a published poet and photographer in addition to acting?",
+  
+  "options": ["Jared Leto", "Viggo Mortensen", "James Franco", "Ethan Hawke"],
+  "correctIndex": 1,
+  "explanation": "Viggo Mortensen has published poetry, photography books, and artwork."
+},
+{
+  "id": "mv-206",
+  "title": "Which actor overcame legal blindness with corrective surgeries before beginning her career?",
+  
+  "options": ["Demi Moore", "Mila Kunis", "Nicole Kidman", "Reese Witherspoon"],
+  "correctIndex": 0,
+  "explanation": "Demi Moore underwent several surgeries to correct severe vision issues."
+},
+{
+  "id": "mv-207",
+  "title": "Which actor worked as a roadie for a punk band before shifting to TV and film?",
+  
+  "options": ["Adam Driver", "Norman Reedus", "Ewan McGregor", "Charlie Hunnam"],
+  "correctIndex": 1,
+  "explanation": "Norman Reedus held odd jobs including touring with punk bands before acting."
+},
+{
+  "id": "mv-208",
+  "title": "Which actor is the granddaughter of Hollywood legend Tippi Hedren?",
+  
+  "options": ["Dakota Johnson", "Bryce Dallas Howard", "Riley Keough", "Lily Collins"],
+  "correctIndex": 0,
+  "explanation": "Dakota Johnson is the daughter of Melanie Griffith and granddaughter of Tippi Hedren."
+},
+{
+  "id": "mv-209",
+  "title": "Which actor’s early career included performing as a magician before becoming a leading man?",
+  
+  "options": ["Benedict Cumberbatch", "George Clooney", "Neil Patrick Harris", "John Travolta"],
+  "correctIndex": 2,
+  "explanation": "Neil Patrick Harris is a skilled magician and performs regularly."
+},
+{
+  "id": "mv-210",
+  "title": "Which actor is a certified EMT and has volunteered on emergency calls?",
+  
+  "options": ["Jennifer Lawrence", "Halle Berry", "Hillary Swank", "Rachel McAdams"],
+  "correctIndex": 3,
+  "explanation": "Rachel McAdams trained and served as an EMT before rising to stardom."
+},
+{
+  "id": "mv-211",
+  "title": "Which actor was once a competitive figure skater before turning to film?",
+  
+  "options": ["Jake Gyllenhaal", "Oscar Isaac", "Sebastian Stan", "Ryan Gosling"],
+  "correctIndex": 2,
+  "explanation": "Sebastian Stan trained in figure skating during his childhood."
+},
+{
+  "id": "mv-212",
+  "title": "Which actor speaks Russian fluently due to emigrating from Ukraine at a young age?",
+  
+  "options": ["Olga Kurylenko", "Mila Kunis", "Anne Hathaway", "Kate Beckinsale"],
+  "correctIndex": 1,
+  "explanation": "Mila Kunis emigrated from Ukraine at age 7 and is fluent in Russian."
+},
+{
+  "id": "mv-213",
+  "title": "Which actor once served in the U.S. Marines before attending Juilliard?",
+  
+  "options": ["Adam Driver", "Jonathan Majors", "Mahershala Ali", "Bryan Cranston"],
+  "correctIndex": 0,
+  "explanation": "Adam Driver served as a Marine before injuries led him toward acting and Juilliard."
+},
+{
+  "id": "mv-214",
+  "title": "Which actor is also a bestselling author with multiple published memoirs?",
+  
+  "options": ["Mindy Kaling", "Reese Witherspoon", "Drew Barrymore", "Tina Fey"],
+  "correctIndex": 3,
+  "explanation": "Tina Fey’s memoir 'Bossypants' became a bestseller, among other works."
+},
+{
+  "id": "mv-215",
+  "title": "Which actor once lived in a remote Buddhist monastery in Japan, inspiring his later roles?",
+  
+  "options": ["Ken Watanabe", "Keanu Reeves", "Forest Whitaker", "Nicolas Cage"],
+  "correctIndex": 2,
+  "explanation": "Forest Whitaker lived and studied in a Buddhist monastery, influencing his worldview and performances."
+},
+{
+  "id": "mv-216",
+  "title": "Which actor survived wartime malnutrition in Nazi-occupied Netherlands before becoming an Oscar-winning Hollywood icon?",
+  
+  "options": ["Audrey Hepburn", "Grace Kelly", "Judy Garland", "Vivien Leigh"],
+  "correctIndex": 0,
+  "explanation": "Audrey Hepburn spent part of WWII in Arnhem, Netherlands, where she suffered from depression and malnutrition under Nazi occupation."
+},
+{
+  "id": "mv-217",
+  "title": "Which actor became the youngest performer to have four Academy Award nominations by age 29?",
+  
+  "options": ["Julia Roberts", "Kate Winslet", "Jodie Foster", "Diane Keaton"],
+  "correctIndex": 1,
+  "explanation": "Kate Winslet earned four Oscar nominations by the age of 29, including for Sense and Sensibility, Titanic, Iris, and Eternal Sunshine of the Spotless Mind."
+},
+{
+  "id": "mv-218",
+  "title": "Which actor became the first Black woman to win the Emmy for Outstanding Lead actor in a Drama Series?",
+  
+  "options": ["Viola Davis", "Judy Garland", "Helen Mirren", "Catherine Deneuve"],
+  "correctIndex": 0,
+  "explanation": "Viola Davis made history with her Emmy win for How to Get Away with Murder, in addition to her Oscar-winning performance in Fences."
+},
+{
+  "id": "mv-219",
+  "title": "Which actor was born Archibald Alec Leach and ran away with a troupe of acrobatic comedians before becoming a Hollywood legend?",
+  
+  "options": ["Cary Grant", "Henry Fonda", "James Cagney", "Laurence Olivier"],
+  "correctIndex": 0,
+  "explanation": "Cary Grant, born Archibald Alec Leach, joined Bob Pender's troupe as a teenager, learning acrobatics and pantomime before turning to film."
+},
+{
+  "id": "mv-220",
+  "title": "Which actor first became famous as 'Easy Reader' on a children’s TV show before winning an Oscar for a driving-themed film?",
+  
+  "options": ["Morgan Freeman", "Anthony Hopkins", "Steve McQueen", "Shah Rukh Khan"],
+  "correctIndex": 0,
+  "explanation": "Morgan Freeman played 'Easy Reader' on The Electric Company and later earned acclaim for Driving Miss Daisy, among many other roles."
+},
+{
+  "id": "mv-221",
+  "title": "Which actor won two Oscars for playing Southern women in crisis: one in the American Civil War and one in New Orleans?",
+  
+  "options": ["Vivien Leigh", "Judy Garland", "Audrey Hepburn", "Grace Kelly"],
+  "correctIndex": 0,
+  "explanation": "Vivien Leigh won Best actor for Scarlett O’Hara in Gone with the Wind and for Blanche DuBois in A Streetcar Named Desire."
+},
+{
+  "id": "mv-222",
+  "title": "Which actor’s second wife was Vivien Leigh, with whom he performed Shakespeare and co-starred in films like That Hamilton Woman?",
+  
+  "options": ["Laurence Olivier", "Cary Grant", "Henry Fonda", "Spencer Tracy"],
+  "correctIndex": 0,
+  "explanation": "Laurence Olivier and Vivien Leigh were married for about two decades and appeared together on stage and in several films."
+},
+{
+  "id": "mv-223",
+  "title": "Which actor, famed for his cool persona, was also a dedicated race car driver and died from mesothelioma at age 50?",
+  
+  "options": ["Steve McQueen", "James Cagney", "Anthony Hopkins", "Morgan Freeman"],
+  "correctIndex": 0,
+  "explanation": "Steve McQueen, star of The Great Escape and Bullitt, had a passion for motor racing and died relatively young from mesothelioma."
+},
+{
+  "id": "mv-224",
+  "title": "Which actor helped popularize androgynous fashion with vests, ties, and loose trousers after a 1977 romantic comedy?",
+  
+  "options": ["Diane Keaton", "Kate Winslet", "Julia Roberts", "Helen Mirren"],
+  "correctIndex": 0,
+  "explanation": "Diane Keaton’s wardrobe in Annie Hall sparked a major trend in androgynous, menswear-inspired fashion."
+},
+{
+  "id": "mv-225",
+  "title": "Which actor was the first to win back-to-back Oscars for Best Actor, including one for playing a Catholic priest to delinquent boys?",
+  
+  "options": ["Spencer Tracy", "Henry Fonda", "Laurence Olivier", "Cary Grant"],
+  "correctIndex": 0,
+  "explanation": "Spencer Tracy won consecutive Oscars for Captains Courageous and Boys Town, becoming the first actor to do so."
+},
+{
+  "id": "mv-226",
+  "title": "Which actor, known as the 'Baadshah of Bollywood', first gained fame on Indian television before breaking out in the film Deewana?",
+  
+  "options": ["Shah Rukh Khan", "Aamir Khan", "Salman Khan", "Hrithik Roshan"],
+  "correctIndex": 0,
+  "explanation": "Shah Rukh Khan started in Indian TV serials, then achieved film stardom with Deewana and went on to be dubbed the 'Baadshah of Bollywood'."
+},
+{
+  "id": "mv-227",
+  "title": "Which actor, daughter of two actors, became a global star with Pretty Woman and later engaged in extensive UNICEF work?",
+  
+  "options": ["Julia Roberts", "Jodie Foster", "Kate Winslet", "Diane Keaton"],
+  "correctIndex": 0,
+  "explanation": "Julia Roberts, born to actor parents in Georgia, broke through with Pretty Woman and later became known for her humanitarian work with UNICEF."
+},
+{
+  "id": "mv-228",
+  "title": "Which actor, a former child star, studied at Yale and won Oscars for The Accused and The Silence of the Lambs?",
+  
+  "options": ["Jodie Foster", "Viola Davis", "Helen Mirren", "Grace Kelly"],
+  "correctIndex": 0,
+  "explanation": "Jodie Foster started acting as a child, graduated magna cum laude from Yale, and won two Best actor Oscars by her early thirties."
+},
+{
+  "id": "mv-229",
+  "title": "Which performer, launched as a vaudeville child star, later became famous for singing 'Over the Rainbow'?",
+  
+  "options": ["Judy Garland", "Audrey Hepburn", "Catherine Deneuve", "Grace Kelly"],
+  "correctIndex": 0,
+  "explanation": "Judy Garland, born Frances Gumm, began in vaudeville and achieved immortal status as Dorothy in The Wizard of Oz, singing 'Over the Rainbow.'"
+},
+{
+  "id": "mv-230",
+  "title": "Which actor, associated with roles as the principled 'common man', starred in both The Grapes of Wrath and 12 Angry Men?",
+  
+  "options": ["Henry Fonda", "Spencer Tracy", "James Cagney", "Cary Grant"],
+  "correctIndex": 0,
+  "explanation": "Henry Fonda became emblematic of the decent, moral everyman in The Grapes of Wrath, 12 Angry Men, and many other films."
+},
+{
+  "id": "mv-231",
+  "title": "Which French actor became an international arthouse icon with Belle de Jour and The Umbrellas of Cherbourg?",
+  
+  "options": ["Catherine Deneuve", "Juliette Binoche", "Isabelle Adjani", "Jeanne Moreau"],
+  "correctIndex": 0,
+  "explanation": "Catherine Deneuve’s performances in The Umbrellas of Cherbourg and Belle de Jour cemented her status as a grande dame of French cinema."
+},
+{
+  "id": "mv-232",
+  "title": "Which actor left Hollywood at the height of her fame to become Princess of Monaco?",
+  
+  "options": ["Grace Kelly", "Audrey Hepburn", "Vivien Leigh", "Julia Roberts"],
+  "correctIndex": 0,
+  "explanation": "Grace Kelly retired from acting after films like Rear Window and To Catch a Thief to marry Prince Rainier III and become Princess of Monaco."
+},
+{
+  "id": "mv-233",
+  "title": "Which actor, born to a Russian father and English mother, won an Oscar for playing Queen Elizabeth II?",
+  
+  "options": ["Helen Mirren", "Viola Davis", "Kate Winslet", "Diane Keaton"],
+  "correctIndex": 0,
+  "explanation": "Helen Mirren, with Russian and English heritage, won the Best actor Oscar for her portrayal of Queen Elizabeth II in The Queen."
+},
+{
+  "id": "mv-234",
+  "title": "Which Welsh-born actor, invited to the National Theatre by Laurence Olivier, won an Oscar for playing Hannibal Lecter?",
+  
+  "options": ["Anthony Hopkins", "Morgan Freeman", "Henry Fonda", "Steve McQueen"],
+  "correctIndex": 0,
+  "explanation": "Anthony Hopkins, from Wales, was brought into the National Theatre by Olivier and later won the Oscar for The Silence of the Lambs."
+},
+{
+  "id": "mv-235",
+  "title": "Which actor, famous for tough gangsters, was also an accomplished dancer and starred in Angels with Dirty Faces?",
+  
+  "options": ["James Cagney", "Cary Grant", "Spencer Tracy", "Steve McQueen"],
+  "correctIndex": 0,
+  "explanation": "James Cagney, known for his energetic style, combined gangster roles with remarkable dancing ability, as seen in films like Yankee Doodle Dandy."
+},
+{
+  "id": "mv-236",
+  "title": "In which film does Audrey Hepburn play the quirky socialite Holly Golightly, often seen with a pastry outside a jewelry store?",
+  
+  "options": ["Breakfast at Tiffany's", "Roman Holiday", "Sabrina", "Charade"],
+  "correctIndex": 0,
+  "explanation": "Audrey Hepburn plays Holly Golightly in Breakfast at Tiffany's, one of her most iconic roles."
+},
+{
+  "id": "mv-237",
+  "title": "Kate Winslet received her first Academy Award nomination for which period drama based on a Jane Austen novel?",
+  
+  "options": ["Sense and Sensibility", "Titanic", "Jude", "Hamlet"],
+  "correctIndex": 0,
+  "explanation": "Kate Winslet earned her first Oscar nomination for her role as Marianne Dashwood in Sense and Sensibility."
+},
+{
+  "id": "mv-238",
+  "title": "Viola Davis won the Academy Award for Best Supporting actor for which adaptation of an August Wilson play?",
+  
+  "options": ["Fences", "The Help", "Doubt", "Ma Rainey’s Black Bottom"],
+  "correctIndex": 0,
+  "explanation": "Viola Davis won an Oscar for reprising her stage role as Rose Maxson in the film Fences."
+},
+{
+  "id": "mv-239",
+  "title": "In which Alfred Hitchcock thriller does Cary Grant’s character get mistaken for a government agent and chased across Mount Rushmore?",
+  
+  "options": ["North by Northwest", "Notorious", "To Catch a Thief", "Suspicion"],
+  "correctIndex": 0,
+  "explanation": "Cary Grant plays advertising man Roger Thornhill in North by Northwest, famously pursued across Mount Rushmore."
+},
+{
+  "id": "mv-240",
+  "title": "Morgan Freeman plays a wise inmate named Red in which prison drama adapted from a Stephen King novella?",
+  
+  "options": ["The Shawshank Redemption", "Brubaker", "The Green Mile", "Glory"],
+  "correctIndex": 0,
+  "explanation": "Morgan Freeman portrays Ellis 'Red' Redding in The Shawshank Redemption."
+},
+{
+  "id": "mv-241",
+  "title": "Vivien Leigh won her first Oscar for portraying which Southern belle caught up in the American Civil War?",
+  
+  "options": ["Scarlett O’Hara in Gone with the Wind", "Blanche DuBois in A Streetcar Named Desire", "Melanie Wilkes in Gone with the Wind", "Katie Scarlett in Jezebel"],
+  "correctIndex": 0,
+  "explanation": "Vivien Leigh’s first Oscar came from her role as Scarlett O’Hara in Gone with the Wind."
+},
+{
+  "id": "mv-242",
+  "title": "Laurence Olivier directed and starred in which Technicolor Shakespeare adaptation set during the Hundred Years’ War?",
+  
+  "options": ["Henry V", "Hamlet", "Richard III", "Othello"],
+  "correctIndex": 0,
+  "explanation": "Laurence Olivier both directed and played the title role in his influential adaptation of Henry V."
+},
+{
+  "id": "mv-243",
+  "title": "Steve McQueen is seen driving a Ford Mustang in one of cinema’s most famous car chases in which film?",
+  
+  "options": ["Bullitt", "The Great Escape", "The Thomas Crown Affair", "Le Mans"],
+  "correctIndex": 0,
+  "explanation": "Steve McQueen’s legendary Mustang chase is in the crime thriller Bullitt."
+},
+{
+  "id": "mv-244",
+  "title": "Diane Keaton won the Academy Award for Best actor for her performance in which Woody Allen film?",
+  
+  "options": ["Annie Hall", "Manhattan", "Sleeper", "Love and Death"],
+  "correctIndex": 0,
+  "explanation": "Diane Keaton’s Oscar-winning turn is as Annie in Annie Hall."
+},
+{
+  "id": "mv-245",
+  "title": "Spencer Tracy plays a jurist presiding over post–World War II war-crimes trials in which courtroom drama?",
+  
+  "options": ["Judgment at Nuremberg", "Inherit the Wind", "12 Angry Men", "The Caine Mutiny"],
+  "correctIndex": 0,
+  "explanation": "Spencer Tracy stars as Chief Judge Dan Haywood in Judgment at Nuremberg."
+},
+{
+  "id": "mv-246",
+  "title": "Shah Rukh Khan plays Raj, who romances Simran on a European trip, in which landmark Bollywood romance?",
+  
+  "options": ["Dilwale Dulhania Le Jayenge", "Dil Se..", "Devdas", "Kal Ho Naa Ho"],
+  "correctIndex": 0,
+  "explanation": "Shah Rukh Khan’s Raj in Dilwale Dulhania Le Jayenge became an iconic romantic hero in Hindi cinema."
+},
+{
+  "id": "mv-247",
+  "title": "Julia Roberts won her first Academy Award for playing a legal clerk uncovering a water contamination scandal in which film?",
+  
+  "options": ["Erin Brockovich", "Pretty Woman", "My Best Friend’s Wedding", "Notting Hill"],
+  "correctIndex": 0,
+  "explanation": "Julia Roberts won Best actor for her title role in Erin Brockovich."
+},
+{
+  "id": "mv-248",
+  "title": "Jodie Foster plays FBI trainee Clarice Starling hunting a serial killer with the help of Hannibal Lecter in which thriller?",
+  
+  "options": ["The Silence of the Lambs", "The Accused", "Taxi Driver", "Panic Room"],
+  "correctIndex": 0,
+  "explanation": "Jodie Foster’s Oscar-winning performance as Clarice Starling is in The Silence of the Lambs."
+},
+{
+  "id": "mv-249",
+  "title": "In which musical fantasy does Judy Garland’s character travel the Yellow Brick Road to meet a mysterious wizard?",
+  
+  "options": ["The Wizard of Oz", "Meet Me in St. Louis", "Easter Parade", "A Star Is Born"],
+  "correctIndex": 0,
+  "explanation": "Judy Garland plays Dorothy Gale in The Wizard of Oz, journeying along the Yellow Brick Road."
+},
+{
+  "id": "mv-250",
+  "title": "Henry Fonda plays jury member No. 8, who doubts a young man’s guilt, in which classic single-room courtroom drama?",
+  
+  "options": ["12 Angry Men", "The Grapes of Wrath", "The Ox-Bow Incident", "Young Mr. Lincoln"],
+  "correctIndex": 0,
+  "explanation": "Henry Fonda stars as the lone initial dissenter in 12 Angry Men."
+},
+{
+  "id": "mv-251",
+  "title": "Catherine Deneuve plays a respectable housewife who secretly works as a high-end prostitute in the afternoons in which Luis Buñuel film?",
+  
+  "options": ["Belle de Jour", "The Umbrellas of Cherbourg", "Repulsion", "Indochine"],
+  "correctIndex": 0,
+  "explanation": "Catherine Deneuve portrays Séverine in Buñuel’s Belle de Jour."
+},
+{
+  "id": "mv-252",
+  "title": "Grace Kelly plays socialite Lisa Fremont, who suspects a neighbor of murder while peering out of a photographer’s window, in which film?",
+  
+  "options": ["Rear Window", "Dial M for Murder", "High Society", "High Noon"],
+  "correctIndex": 0,
+  "explanation": "Grace Kelly co-stars with James Stewart in Alfred Hitchcock’s Rear Window."
+},
+{
+  "id": "mv-253",
+  "title": "Helen Mirren portrays Queen Elizabeth II dealing with the aftermath of Princess Diana’s death in which film?",
+  
+  "options": ["The Queen", "Gosford Park", "The Last Station", "Calendar Girls"],
+  "correctIndex": 0,
+  "explanation": "Helen Mirren’s Oscar-winning performance as Elizabeth II is in The Queen."
+},
+{
+  "id": "mv-254",
+  "title": "Anthony Hopkins plays a loyal but emotionally repressed butler opposite Emma Thompson in which Merchant Ivory drama?",
+  
+  "options": ["The Remains of the Day", "Howards End", "Shadowlands", "Legends of the Fall"],
+  "correctIndex": 0,
+  "explanation": "Anthony Hopkins plays butler Stevens in The Remains of the Day."
+},
+{
+  "id": "mv-255",
+  "title": "James Cagney famously shouts “Top of the world, Ma!” before an explosive finale in which gangster film?",
+  
+  "options": ["White Heat", "The Public Enemy", "Angels with Dirty Faces", "Yankee Doodle Dandy"],
+  "correctIndex": 0,
+  "explanation": "James Cagney delivers the iconic line in the climax of White Heat."
+},
+{
+  "id": "mv-256",
+  "title": "In which romantic comedy does Audrey Hepburn’s chauffeur’s daughter character transform and capture the attention of two wealthy brothers?",
+  
+  "options": ["Sabrina", "Roman Holiday", "Funny Face", "Love in the Afternoon"],
+  "correctIndex": 0,
+  "explanation": "Audrey Hepburn plays Sabrina Fairchild in Sabrina, opposite Humphrey Bogart and William Holden."
+},
+{
+  "id": "mv-257",
+  "title": "Kate Winslet’s character Rose survives a doomed ocean liner voyage and clings to a piece of wreckage in which film?",
+  
+  "options": ["Titanic", "The Reader", "Finding Neverland", "Revolutionary Road"],
+  "correctIndex": 0,
+  "explanation": "Kate Winslet co-stars with Leonardo DiCaprio in James Cameron’s Titanic."
+},
+{
+  "id": "mv-258",
+  "title": "Morgan Freeman narrates humanity’s struggle against an alien invasion in which Steven Spielberg adaptation of an H.G. Wells novel?",
+  
+  "options": ["War of the Worlds", "Deep Impact", "Outbreak", "Oblivion"],
+  "correctIndex": 0,
+  "explanation": "Morgan Freeman provides the narration for Spielberg’s War of the Worlds."
+},
+{
+  "id": "mv-259",
+  "title": "Steve McQueen leads prisoners in a daring mass breakout from a German POW camp in which World War II adventure film?",
+  
+  "options": ["The Great Escape", "The Dirty Dozen", "Where Eagles Dare", "Kelly’s Heroes"],
+  "correctIndex": 0,
+  "explanation": "Steve McQueen plays Hilts, the 'Cooler King', in The Great Escape."
+},
+{
+  "id": "mv-260",
+  "title": "Diane Keaton plays Kay Adams, who gradually realizes the true nature of Michael Corleone’s business, in which crime saga?",
+  
+  "options": ["The Godfather", "Goodfellas", "Casino", "The Untouchables"],
+  "correctIndex": 0,
+  "explanation": "Diane Keaton portrays Kay Adams-Corleone in The Godfather series."
+},
+{
+  "id": "mv-261",
+  "title": "Julia Roberts plays a bookstore customer who falls in love with a shy bookseller played by Hugh Grant in which London-set romance?",
+  
+  "options": ["Notting Hill", "Pretty Woman", "Runaway Bride", "Closer"],
+  "correctIndex": 0,
+  "explanation": "Julia Roberts plays movie star Anna Scott in Notting Hill."
+},
+{
+  "id": "mv-262",
+  "title": "Jodie Foster plays a radio astronomer who receives a signal from space in which science fiction drama based on a Carl Sagan novel?",
+  
+  "options": ["Contact", "Arrival", "Interstellar", "Sphere"],
+  "correctIndex": 0,
+  "explanation": "Jodie Foster stars as Dr. Ellie Arroway in Contact."
+},
+{
+  "id": "mv-263",
+  "title": "Henry Fonda plays the outlaw-turned-legendary gunfighter opposite Claudia Cardinale and Charles Bronson in which Sergio Leone Western?",
+  
+  "options": ["Once Upon a Time in the West", "The Good, the Bad and the Ugly", "For a Few Dollars More", "My Darling Clementine"],
+  "correctIndex": 0,
+  "explanation": "Henry Fonda subverts his heroic image as villain Frank in Once Upon a Time in the West."
+},
+{
+  "id": "mv-264",
+  "title": "Catherine Deneuve plays an elegant plantation owner in French Indochina who raises a Vietnamese princess as her adopted daughter in which epic?",
+  
+  "options": ["Indochine", "The Last Metro", "Mississippi Mermaid", "8 Women"],
+  "correctIndex": 0,
+  "explanation": "Catherine Deneuve stars as Éliane Devries in the historical drama Indochine."
+},
+{
+  "id": "mv-265",
+  "title": "Anthony Hopkins reprises his role as Hannibal Lecter opposite Julianne Moore’s Clarice Starling in which sequel to The Silence of the Lambs?",
+  
+  "options": ["Hannibal", "Red Dragon", "Manhunter", "Black Sunday"],
+  "correctIndex": 0,
+  "explanation": "Anthony Hopkins returns as Lecter in Hannibal, set years after The Silence of the Lambs."
+},
+{
+  "id": "mv-266",
+  "title": "Roma (2018) follows Cleo working for a family in which city during the 1970s?",
+  "options": ["Mexico City", "Buenos Aires", "Madrid", "São Paulo"],
+  "correctIndex": 0,
+  "explanation": "Cuarón’s Roma is set in the Colonia Roma neighborhood of Mexico City."
+},
+{
+  "id": "mv-267",
+  "title": "Amazing Grace (2018) documents Aretha Franklin recording a live gospel album in which location?",
+  "options": ["New Bethel Baptist Church, Los Angeles", "Apollo Theater, Harlem", "Stax Records, Memphis", "Royal Albert Hall, London"],
+  "correctIndex": 0,
+  "explanation": "Aretha recorded her landmark album at New Bethel Baptist Church in Watts."
+},
+{
+  "id": "mv-268",
+  "title": "Shoplifters (2018) centers on a poor Tokyo family who take in a neglected girl after finding her where?",
+  "options": ["Outside in the cold", "At a train station", "In a supermarket", "On a beach"],
+  "correctIndex": 0,
+  "explanation": "Osamu and his son discover the shivering girl alone outside."
+},
+{
+  "id": "mv-269",
+  "title": "Shoah: Four Sisters (2018) consists of testimonies originally filmed for which earlier landmark documentary?",
+  "options": ["Shoah (1985)", "Night and Fog (1956)", "The Sorrow and the Pity (1969)", "Hotel Terminus (1988)"],
+  "correctIndex": 0,
+  "explanation": "Claude Lanzmann revisited unused survivor interviews from Shoah."
+},
+{
+  "id": "mv-270",
+  "title": "Burning (2018) follows Jongsu as he becomes obsessed with Ben, who claims what unusual hobby?",
+  "options": ["Burning greenhouses", "Collecting rare snakes", "Filming strangers", "Writing anonymous letters"],
+  "correctIndex": 0,
+  "explanation": "Ben’s disturbing and ambiguous ‘hobby’ drives the film’s tension."
+},
+{
+  "id": "mv-271",
+  "title": "Gavagai (2018) follows Carsten as he travels to which country to fulfill his late wife's translation work?",
+  "options": ["Norway", "Finland", "Austria", "Germany"],
+  "correctIndex": 0,
+  "explanation": "Carsten journeys through Norway’s landscapes tied to the poet Tarjei Vesaas."
+},
+{
+  "id": "mv-272",
+  "title": "A Bread Factory Part Two (2018) portrays the arts center rehearsing which classic Greek tragedy?",
+  "options": ["Hecuba", "Antigone", "Agamemnon", "Medea"],
+  "correctIndex": 0,
+  "explanation": "The play Hecuba mirrors the disruptions happening outside the theater."
+},
+{
+  "id": "mv-273",
+  "title": "In A Bread Factory Part One (2018), the community arts center faces competition from what?",
+  "options": ["A celebrity artist couple's new complex", "A tech giant's campus", "A luxury hotel", "A chain theater"],
+  "correctIndex": 0,
+  "explanation": "The arrival of high-profile performance artists threatens the center’s funding."
+},
+{
+  "id": "mv-274",
+  "title": "They Shall Not Grow Old (2018) uses restored archival footage from which war?",
+  "options": ["World War I", "World War II", "The Boer War", "The Crimean War"],
+  "correctIndex": 0,
+  "explanation": "Peter Jackson colorized and enhanced WWI footage to bring soldiers’ lives to the present."
+},
+{
+  "id": "mv-275",
+  "title": "The Favourite (2018) focuses on political and personal intrigue during the reign of which British monarch?",
+  "options": ["Queen Anne", "Queen Victoria", "Elizabeth I", "George II"],
+  "correctIndex": 0,
+  "explanation": "Olivia Colman’s performance as Queen Anne earned international acclaim."
+},
+{
+  "id": "mv-276",
+  "title": "Cold War (2018) portrays the turbulent romance between Zula and Wiktor beginning in which country?",
+  "options": ["Poland", "France", "Czechoslovakia", "Hungary"],
+  "correctIndex": 0,
+  "explanation": "Their love story begins in post-war Poland amid a state-sponsored music ensemble."
+},
+{
+  "id": "mv-277",
+  "title": "The Tale (2018) follows Jennifer Fox re-examining what pivotal event from her youth?",
+  "options": ["Her first sexual relationship", "Her parents’ divorce", "A childhood kidnapping", "A school shooting"],
+  "correctIndex": 0,
+  "explanation": "Finding an old school story forces Jennifer to confront long-buried trauma."
+},
+{
+  "id": "mv-278",
+  "title": "Minding the Gap (2018) uses over a decade of footage primarily focused on which activity?",
+  "options": ["Skateboarding", "Graffiti art", "Youth boxing", "High school basketball"],
+  "correctIndex": 0,
+  "explanation": "Bing Liu’s documentary explores masculinity and hardship through skateboard culture."
+},
+{
+  "id": "mv-279",
+  "title": "Zama (2018) follows a colonial officer desperately awaiting a transfer order from whom?",
+  "options": ["The King of Spain", "The Viceroy of Peru", "The Royal Court of Portugal", "The Governor of Buenos Aires"],
+  "correctIndex": 0,
+  "explanation": "Zama’s fate hinges on a letter from the King that never arrives."
+},
+{
+  "id": "mv-280",
+  "title": "Dead Souls (2018) interviews survivors of reeducation camps in which country?",
+  "options": ["China", "North Korea", "Vietnam", "Cambodia"],
+  "correctIndex": 0,
+  "explanation": "The film documents those labeled 'rightists' during China’s Anti-Rightist campaign."
+},
+{
+  "id": "mv-281",
+  "title": "Crime + Punishment (2018) follows whistleblower officers fighting against illegal quotas in which U.S. city?",
+  "options": ["New York City", "Chicago", "Los Angeles", "Baltimore"],
+  "correctIndex": 0,
+  "explanation": "NYPD officers expose pressure to meet arrest and summons targets."
+},
+{
+  "id": "mv-282",
+  "title": "Paddington 2 (2018) centers on Paddington trying to purchase what for Aunt Lucy?",
+  "options": ["A rare pop-up book", "A handmade marmalade pot", "A London snow globe", "A custom raincoat"],
+  "correctIndex": 0,
+  "explanation": "The pop-up book becomes the film’s central object of affection and conflict."
+},
+{
+  "id": "mv-283",
+  "title": "The Death of Stalin (2018) dramatizes the frantic power struggle following Stalin’s death in which year?",
+  "options": ["1953", "1949", "1957", "1961"],
+  "correctIndex": 0,
+  "explanation": "The film satirizes the political chaos that erupted immediately after Stalin died."
+},
+{
+  "id": "mv-284",
+  "title": "A Star Is Born (2018) features Jackson Maine discovering Ally while she performs what?",
+  "options": ["A drag bar show", "A street performance", "A jazz open mic", "A wedding gig"],
+  "correctIndex": 0,
+  "explanation": "He first hears her singing 'La Vie en Rose' at a drag club’s open mic night."
+},
+{
+  "id": "mv-285",
+  "title": "Sweet Country (2018) follows Sam after he kills a settler in which region of Australia?",
+  "options": ["The Northern Territory", "Queensland", "Victoria", "Western Australia"],
+  "correctIndex": 0,
+  "explanation": "Set in the harsh landscapes of the Northern Territory, Sam flees across the outback."
+},
+{
+  "id": "mv-286",
+  "title": "Leave No Trace (2018) begins with Will and Tom living secretly in which U.S. state?",
+  "options": ["Oregon", "Montana", "Idaho", "Washington"],
+  "correctIndex": 0,
+  "explanation": "They live hidden in Forest Park outside Portland, Oregon."
+},
+{
+  "id": "mv-287",
+  "title": "Shirkers (2018) explores the disappearance of which cinematic project?",
+  "options": ["Singapore’s first indie road movie", "A banned Malaysian documentary", "A lost Filipino horror film", "A Thai New Wave feature"],
+  "correctIndex": 0,
+  "explanation": "Sandi Tan’s mentor stole the footage for her indie film Shirkers for 20 years."
+},
+{
+  "id": "mv-288",
+  "title": "Black Panther (2018) follows T’Challa returning to rule which technologically advanced African nation?",
+  "options": ["Wakanda", "Zamunda", "Nabania", "Koroba"],
+  "correctIndex": 0,
+  "explanation": "Wakanda blends tradition with futuristic innovation behind its hidden borders."
+},
+{
+  "id": "mv-289",
+  "title": "Jane Fonda in Five Acts (2018) divides Fonda’s life into chapters framed around what?",
+  "options": ["The major men who shaped different eras of her life", "Her five most influential films", "Her political campaigns", "Her marriages only"],
+  "correctIndex": 0,
+  "explanation": "The film uses five influential male figures to structure Fonda’s evolution."
+},
+{
+  "id": "mv-290",
+  "title": "Amazing Grace (2018) features Aretha Franklin accompanied by which choir?",
+  "options": ["The Southern California Community Choir", "The Harlem Gospel Ensemble", "The Detroit Jubilee Choir", "The Ebenezer Mission Choir"],
+  "correctIndex": 0,
+  "explanation": "Led by Alexander Hamilton, the choir supports Franklin’s historic performance."
+},
+{
+  "id": "mv-291",
+  "title": "Roma (2018) depicts Cleo’s employers as belonging to which social class?",
+  "options": ["Middle class", "Aristocracy", "Working class", "Upper elite"],
+  "correctIndex": 0,
+  "explanation": "The family Cuarón depicts lives in middle-class Colonia Roma."
+},
+{
+  "id": "mv-292",
+  "title": "The Favourite (2018) shows Abigail rising in status through gaining whose favor?",
+  "options": ["Queen Anne", "Queen Victoria", "Prince George", "The Duchess of Marlborough"],
+  "correctIndex": 0,
+  "explanation": "Abigail becomes Queen Anne’s new confidante, threatening Sarah’s influence."
+},
+{
+  "id": "mv-293",
+  "title": "Cold War (2018) repeatedly reunites Wiktor and Zula in which romantic city?",
+  "options": ["Paris", "Rome", "Vienna", "Prague"],
+  "correctIndex": 0,
+  "explanation": "Paris becomes a recurring site of longing and disillusionment."
+},
+{
+  "id": "mv-294",
+  "title": "Paddington 2 (2018) features Paddington wrongfully imprisoned because of what crime?",
+  "options": ["Stealing the pop-up book", "Breaking into a museum", "Damaging a train", "Assaulting a neighbor"],
+  "correctIndex": 0,
+  "explanation": "The real thief frames Paddington for stealing the antique pop-up book."
+},
+{
+  "id": "mv-295",
+  "title": "A Star Is Born (2018) depicts Ally’s rapid rise to fame contrasted with Jack’s struggle with what?",
+  "options": ["Addiction and declining health", "Gambling debt", "Stage fright", "Political scandal"],
+  "correctIndex": 0,
+  "explanation": "Jack’s alcoholism and personal demons form the tragic backbone of the film."
+},
+{
+  "id": "mv-296",
+  "title": "In Dunkirk (2017), which aspect of the film most benefits from Nolan’s decision to minimize dialogue?",
+  "options": ["Musical themes", "Visual geography", "Physical tension", "Character monologues"],
+  "correctIndex": 2,
+  "explanation": "The lack of dialogue heightens the raw physical urgency of the evacuation."
+},
+{
+  "id": "mv-297",
+  "title": "Faces Places (2017) showcases JR’s art style. What detail about his portraits most contributes to their emotional impact?",
+  "options": ["Their color saturation", "Their monumental scale", "Their abstract shapes", "Their digital animations"],
+  "correctIndex": 1,
+  "explanation": "The enormous prints turn everyday individuals into monumental figures."
+},
+{
+  "id": "mv-298",
+  "title": "Call Me by Your Name (2017) ends with a long unbroken shot of Elio by the fireplace. Which aspect of filmmaking is emphasized here?",
+  "options": ["Score modulation", "Camera blocking", "Lighting transitions", "Emotional performance"],
+  "correctIndex": 3,
+  "explanation": "The lingering close-up foregrounds the rawness of Timothée Chalamet’s performance."
+},
+{
+  "id": "mv-299",
+  "title": "Lady Bird (2017) places emphasis on Sacramento’s geography for what narrative effect?",
+  "options": ["To symbolize confinement", "To highlight economic contrasts", "To explore political divisions", "To celebrate religious diversity"],
+  "correctIndex": 0,
+  "explanation": "The suburban sprawl symbolizes Lady Bird’s desire to escape."
+},
+{
+  "id": "mv-300",
+  "title": "Which recurring motif in The Florida Project (2017) reflects childhood resilience amid instability?",
+  "options": ["Seasonal festivals", "Colorful exteriors", "Distant fireworks", "Hand-drawn cartoons"],
+  "correctIndex": 2,
+  "explanation": "Fireworks become a symbol of wonder despite the family's hardships."
+},
+{
+  "id": "mv-301",
+  "title": "EX LIBRIS (2017) presents NYPL events featuring which unexpected source of civic debate?",
+  "options": ["Children's robotics teams", "Local neighborhood boards", "Poetry translators", "Astronomy lecturers"],
+  "correctIndex": 3,
+  "explanation": "Talks on science and space connect the library to a broad intellectual community."
+},
+{
+  "id": "mv-302",
+  "title": "I Called Him Morgan (2017) gains narrative momentum from which type of archival material?",
+  "options": ["Court transcripts", "Radio interviews", "A personal cassette tape", "Handwritten testimonies"],
+  "correctIndex": 1,
+  "explanation": "Radio segments and interviews provide context for Morgan’s life and legacy."
+},
+{
+  "id": "mv-303",
+  "title": "Phantom Thread (2017) illustrates Reynolds’ perfectionism partly through his morning rituals, which include what?",
+  "options": ["Burning incense", "Stitching in private", "Carefully preparing breakfast", "Planning color swatches"],
+  "correctIndex": 0,
+  "explanation": "His strict morning routines hint at the rigidity of his personality."
+},
+{
+  "id": "mv-304",
+  "title": "Uncertain (2017) portrays a community affected by an ecological threat to their lake caused by what?",
+  "options": ["A toxic algae bloom", "Industrial dumping", "An invasive plant species", "A natural drought cycle"],
+  "correctIndex": 3,
+  "explanation": "Drought impacts the region's ecosystem and the residents' livelihoods."
+},
+{
+  "id": "mv-305",
+  "title": "Columbus (2017) uses its architecture-laden setting to highlight which emotional state shared by its leads?",
+  "options": ["Nostalgia", "Restlessness", "Admiration", "Isolation"],
+  "correctIndex": 2,
+  "explanation": "They bond over appreciating design even while they struggle personally."
+},
+{
+  "id": "mv-306",
+  "title": "In Transit (2017) includes candid conversations among strangers. What gives these interactions their unique weight?",
+  "options": ["Curated dialogue prompts", "Random seating arrangements", "Long travel durations", "Audio diaries from passengers"],
+  "correctIndex": 1,
+  "explanation": "Meeting through chance seating amplifies the film’s sense of impermanence."
+},
+{
+  "id": "mv-307",
+  "title": "Three Billboards Outside Ebbing, Missouri (2017) is thematically anchored by what narrative principle?",
+  "options": ["Unreliable narrator", "Social satire", "Ambiguous justice", "Flashback repetition"],
+  "correctIndex": 0,
+  "explanation": "Characters struggle over justice that never resolves cleanly."
+},
+{
+  "id": "mv-308",
+  "title": "Quest (2017) was filmed over nearly a decade. What long-term change most shapes the family's story?",
+  "options": ["Economic transformation", "Evolving music styles", "Generational trauma", "Neighborhood gentrification"],
+  "correctIndex": 3,
+  "explanation": "The neighborhood’s shifting landscape mirrors the family's challenges."
+},
+{
+  "id": "mv-309",
+  "title": "Foxtrot (2017) features a major plot twist centered on which narrative element?",
+  "options": ["A child’s disappearance", "A bureaucratic error", "A military cover-up", "A forged document"],
+  "correctIndex": 1,
+  "explanation": "The mistaken report of a soldier’s death drives the story’s emotional turns."
+},
+{
+  "id": "mv-310",
+  "title": "Restless Creature: Wendy Whelan (2017) focuses on which significant transition in Whelan’s career?",
+  "options": ["Shifting to choreography", "Joining a new ballet company", "Collaborating with contemporary dancers", "Teaching full-time"],
+  "correctIndex": 2,
+  "explanation": "Her collaborations challenge traditional ballet structures."
+},
+{
+  "id": "mv-311",
+  "title": "The Farthest (2017) highlights Voyager’s famous message to the cosmos. What is the central component of that message?",
+  "options": ["Mathematical codes", "Jazz performances", "Radiation signatures", "Welcome speeches"],
+  "correctIndex": 0,
+  "explanation": "Mathematical patterning helps extraterrestrials decode the record."
+},
+{
+  "id": "mv-312",
+  "title": "Jane (2017) incorporates rediscovered 1960s footage using what cinematic texture?",
+  "options": ["Warm 16mm natural light", "Noir-style shadows", "Pristine digital remastering", "Black-and-white contrast"],
+  "correctIndex": 3,
+  "explanation": "The restored archival film retains its monochrome tonality and texture."
+},
+{
+  "id": "mv-313",
+  "title": "My Journey Through French Cinema (2017) devotes significant time to which foundational influence on Tavernier?",
+  "options": ["Avant-garde animation", "Film noir aesthetics", "Street-level documentary realism", "Marxist essays on film"],
+  "correctIndex": 2,
+  "explanation": "He was deeply influenced by grounded realism in mid-century French films."
+},
+{
+  "id": "mv-314",
+  "title": "The Shape of Water (2017) blends genres. Which cinematic tradition most heavily shapes its production design?",
+  "options": ["German Expressionism", "Italian Neorealism", "French Poetic Realism", "British Kitchen-Sink drama"],
+  "correctIndex": 0,
+  "explanation": "The angular shadows and stylized sets echo expressionist influences."
+},
+{
+  "id": "mv-315",
+  "title": "Dawson City: Frozen Time (2017) uses nitrate film decomposition as part of its imagery. What unique effect does this create?",
+  "options": ["Digital flares", "Organic bubbling patterns", "Time-lapse distortions", "Light leaks mimicking sunsets"],
+  "correctIndex": 2,
+  "explanation": "The aging footage warps visually over time, symbolizing cinema’s fragility."
+},
+{
+  "id": "mv-316",
+  "title": "The Red Turtle (2017) is notable for which trademark of its animation style?",
+  "options": ["Minimalist dialogue", "Photorealistic shading", "Motion-capture choreography", "Cel-shaded depth"],
+  "correctIndex": 0,
+  "explanation": "The film conveys emotion without spoken words."
+},
+{
+  "id": "mv-317",
+  "title": "Chasing Coral (2017) accomplishes its underwater documentation using which innovation?",
+  "options": ["Deployed time-lapse camera rigs", "Underwater drones", "Infrared coral mapping", "Synthetic coral models"],
+  "correctIndex": 3,
+  "explanation": "Specialized rigs were engineered to withstand long underwater placements."
+},
+{
+  "id": "mv-318",
+  "title": "My Happy Family (2017) explores which major cultural tension highlighted by Manana’s decision?",
+  "options": ["Women living independently", "Shifting language norms", "Urban migration trends", "A decline in arranged marriages"],
+  "correctIndex": 2,
+  "explanation": "Her move reflects broader social changes in Georgian urban life."
+},
+{
+  "id": "mv-319",
+  "title": "Loveless (2017) uses cold, desaturated cinematography to emphasize what thematic concern?",
+  "options": ["Personal decay", "Hyper-modern life", "Emotional absence", "Institutional corruption"],
+  "correctIndex": 0,
+  "explanation": "The visual palette mirrors the emotional deterioration of the characters."
+},
+{
+  "id": "mv-320",
+  "title": "Dunkirk (2017) employs Shepard tones in its soundtrack. What does this auditory illusion create?",
+  "options": ["A sense of endless rising tension", "An echoing underwater effect", "A rhythmic battle pulse", "A melodic countdown"],
+  "correctIndex": 3,
+  "explanation": "Zimmer manipulates tone cycles to simulate perpetual ascent."
+},
+{
+  "id": "mv-321",
+  "title": "Faces Places (2017) includes a visit to which type of rural workplace, where workers pose for large-scale portraits?",
+  "options": ["Garlic farms", "Cow dairies", "Coal depots", "Potato fields"],
+  "correctIndex": 1,
+  "explanation": "Workers at a dairy become subjects of one of the film’s most striking murals."
+},
+{
+  "id": "mv-322",
+  "title": "In Call Me by Your Name (2017), the Perlmans’ villa reflects which recurring cinematic theme?",
+  "options": ["Cultural erudition", "Industrial modernity", "Nomadic displacement", "Technological innovation"],
+  "correctIndex": 0,
+  "explanation": "Books, manuscripts, and artifacts signal an intellectual household."
+},
+{
+  "id": "mv-323",
+  "title": "The Florida Project (2017) features a standout performance by Willem Dafoe. What trait defines his character Bobby?",
+  "options": ["His stern professionalism", "His quiet compassion", "His rebellious streak", "His formal strictness"],
+  "correctIndex": 2,
+  "explanation": "Though understated, his character balances firmness with empathy."
+},
+{
+  "id": "mv-324",
+  "title": "Three Billboards (2017) derives much of its tension from what structural choice?",
+  "options": ["A series of confrontations without clear resolutions", "Parallel cases in two towns", "A detective narrator", "Found-footage elements"],
+  "correctIndex": 0,
+  "explanation": "Conflicts escalate without offering neat answers."
+},
+{
+  "id": "mv-325",
+  "title": "Jane (2017) gains emotional power from pairing archival film with whose contemporary score?",
+  "options": ["Hans Zimmer", "Philip Glass", "Max Richter", "Ryuichi Sakamoto"],
+  "correctIndex": 3,
+  "explanation": "Glass’s music shapes the film’s meditative tone."
+},
+{
+    "id": "mv-326",
+    "title": "Which actor earned an Oscar nomination for portraying Tina Turner in 1993?",
+    "options": ["Julie Andrews", "Rita Hayworth", "Angela Bassett", "Greta Garbo"],
+    "correctIndex": 2,
+    "explanation": "Angela Bassett received an Academy Award nomination for her performance in 'What’s Love Got to Do with It.'"
+  },
+  {
+    "id": "mv-327",
+    "title": "Which actor made his film debut in 'A Nightmare on Elm Street' (1984)?",
+    "options": ["Johnny Depp", "Montgomery Clift", "James Dean", "Kirk Douglas"],
+    "correctIndex": 0,
+    "explanation": "Johnny Depp appeared on screen for the first time in Wes Craven’s horror film."
+  },
+  {
+    "id": "mv-328",
+    "title": "Which actor retired after 'Two-Faced Woman' (1941) and lived a reclusive life in New York?",
+    "options": ["Olivia de Havilland", "Julie Andrews", "Rita Hayworth", "Greta Garbo"],
+    "correctIndex": 3,
+    "explanation": "Greta Garbo withdrew from acting and maintained strict privacy afterward."
+  },
+  {
+    "id": "mv-329",
+    "title": "Which actor sued Warner Bros. in a landmark case later known as the De Havilland Decision?",
+    "options": ["James Dean", "Olivia de Havilland", "Julie Andrews", "Rita Hayworth"],
+    "correctIndex": 1,
+    "explanation": "Olivia de Havilland’s legal victory reshaped Hollywood contract law."
+  },
+  {
+    "id": "mv-330",
+    "title": "Which actor played Eliza Doolittle in the original Broadway run of 'My Fair Lady'?",
+    "options": ["Rita Hayworth", "Julie Andrews", "Angela Bassett", "Joan Crawford"],
+    "correctIndex": 1,
+    "explanation": "Julie Andrews originated the role on Broadway in 1956."
+  },
+  {
+    "id": "mv-331",
+    "title": "Which actor co-starred with Bette Davis in 'What Ever Happened to Baby Jane?'",
+    "options": ["Joan Crawford", "Angela Bassett", "Julie Andrews", "Isabelle Huppert"],
+    "correctIndex": 0,
+    "explanation": "Joan Crawford appeared opposite Davis in the psychological thriller."
+  },
+  {
+    "id": "mv-332",
+    "title": "Which actor was known as the 'Eternal Virgin' in Japanese cinema?",
+    "options": ["Angela Bassett", "Greta Garbo", "Setsuko Hara", "Rita Hayworth"],
+    "correctIndex": 2,
+    "explanation": "Setsuko Hara earned the nickname due to her signature roles."
+  },
+  {
+    "id": "mv-333",
+    "title": "Which actor famously collaborated with director Federico Fellini multiple times?",
+    "options": ["Rita Hayworth", "Isabelle Huppert", "Julie Andrews", "Marcello Mastroianni"],
+    "correctIndex": 3,
+    "explanation": "Mastroianni starred in major Fellini films including '8½' and 'La Dolce Vita.'"
+  },
+  {
+    "id": "mv-334",
+    "title": "Which actor starred as Maria in the 1961 film 'West Side Story'?",
+    "options": ["Natalie Wood", "Julie Andrews", "Rita Hayworth", "Greta Garbo"],
+    "correctIndex": 0,
+    "explanation": "Natalie Wood played Maria in the classic musical adaptation."
+  },
+  {
+    "id": "mv-335",
+    "title": "Which actor became a major star after appearing in 'Rebel Without a Cause'?",
+    "options": ["Joan Crawford", "James Dean", "Montgomery Clift", "Harrison Ford"],
+    "correctIndex": 1,
+    "explanation": "James Dean’s performance solidified his iconic cultural status."
+  },
+  {
+    "id": "mv-336",
+    "title": "Which actor created the character of the Little Tramp in silent cinema?",
+    "options": ["Harrison Ford", "Marcello Mastroianni", "Isabelle Huppert", "Charles Chaplin"],
+    "correctIndex": 3,
+    "explanation": "Charles Chaplin’s Little Tramp is one of the most recognizable characters in film history."
+  },
+  {
+    "id": "mv-337",
+    "title": "Which actor became known for intense roles in films like 'The Piano Teacher'?",
+    "options": ["Angela Bassett", "Rita Hayworth", "Isabelle Huppert", "Julie Andrews"],
+    "correctIndex": 2,
+    "explanation": "Isabelle Huppert is widely praised for her psychologically complex performances."
+  },
+  {
+    "id": "mv-338",
+    "title": "Which actor earned fame as Storm in the 'X-Men' film series?",
+    "options": ["Halle Berry", "Angela Bassett", "Rita Hayworth", "Greta Garbo"],
+    "correctIndex": 0,
+    "explanation": "Halle Berry portrayed the weather-controlling mutant Storm."
+  },
+  {
+    "id": "mv-339",
+    "title": "Which actor won an Oscar for her performance in 'Dead Man Walking'?",
+    "options": ["Susan Sarandon", "Julie Andrews", "Natalie Wood", "Olivia de Havilland"],
+    "correctIndex": 1,
+    "explanation": "Susan Sarandon won Best Actress for her 1995 role."
+  },
+  {
+    "id": "mv-340",
+    "title": "Which actor starred in 'Singin’ in the Rain' as its iconic lead dancer?",
+    "options": ["Charles Chaplin", "James Dean", "Susan Sarandon", "Gene Kelly"],
+    "correctIndex": 3,
+    "explanation": "Gene Kelly co-directed and starred in the musical classic."
+  },
+  {
+    "id": "mv-341",
+    "title": "Which actor was known for his role in 'A Place in the Sun' and struggled with addiction?",
+    "options": ["Harrison Ford", "Montgomery Clift", "Marcello Mastroianni", "James Dean"],
+    "correctIndex": 1,
+    "explanation": "Montgomery Clift gave a defining performance but battled personal turmoil."
+  },
+  {
+    "id": "mv-342",
+    "title": "Which actor portrayed Melanie Hamilton in 'Gone with the Wind'?",
+    "options": ["Greta Garbo", "Natalie Wood", "Olivia de Havilland", "Isabelle Huppert"],
+    "correctIndex": 2,
+    "explanation": "Olivia de Havilland received an Oscar nomination for the role."
+  },
+  {
+    "id": "mv-343",
+    "title": "Which actor starred as Gilda in the 1946 film of the same name?",
+    "options": ["Rita Hayworth", "Julie Andrews", "Halle Berry", "Susan Sarandon"],
+    "correctIndex": 0,
+    "explanation": "Rita Hayworth’s performance remains one of classic Hollywood’s most iconic."
+  },
+  {
+    "id": "mv-344",
+    "title": "Which actor was once dubbed 'the ragman’s son' and became a major Hollywood star?",
+    "options": ["Kirk Douglas", "Charles Chaplin", "Gene Kelly", "James Dean"],
+    "correctIndex": 0,
+    "explanation": "Kirk Douglas titled his autobiography 'The Ragman’s Son.'"
+  },
+  {
+    "id": "mv-345",
+    "title": "Which actor played Queen Clarisse Renaldi in 'The Princess Diaries'?",
+    "options": ["Julie Andrews", "Olivia de Havilland", "Rita Hayworth", "Susan Sarandon"],
+    "correctIndex": 0,
+    "explanation": "Julie Andrews portrayed the elegant queen in the 2001 film."
+  },
+  {
+    "id": "mv-346",
+    "title": "Which actor starred in 'Miracle on 34th Street' as a child performer?",
+    "options": ["Angela Bassett", "Greta Garbo", "Natalie Wood", "Rita Hayworth"],
+    "correctIndex": 1,
+    "explanation": "Natalie Wood gained early fame through her breakout childhood role."
+  },
+  {
+    "id": "mv-347",
+    "title": "Which director frequently collaborated with actor Joan Fontaine early in her Hollywood ascent?",
+    "options": ["Billy Wilder", "Michael Curtiz", "David O. Selznick", "Alfred Hitchcock"],
+    "correctIndex": 3,
+    "explanation": "Fontaine’s key early acclaim came from Hitchcock’s direction in both Rebecca and Suspicion."
+  },
+  {
+    "id": "mv-348",
+    "title": "Julianne Moore earned an Oscar nomination for which 2002 drama exploring 1950s suburbia?",
+    "options": ["The Hours", "Far from Heaven", "Safe", "An Ideal Husband"],
+    "correctIndex": 1,
+    "explanation": "Her role in Far from Heaven showcased emotional nuance central to the film’s visual style."
+  },
+  {
+    "id": "mv-349",
+    "title": "Which 1990s action blockbuster helped solidify Will Smith’s status as a major box-office actor?",
+    "options": ["Independence Day", "Air Force One", "The Siege", "Lethal Weapon 4"],
+    "correctIndex": 0,
+    "explanation": "Independence Day (1996) propelled Smith into international superstardom."
+  },
+  {
+    "id": "mv-350",
+    "title": "Sophia Loren’s Academy Award–winning performance in Two Women (1960) is particularly noted for its use of what stylistic emphasis?",
+    "options": ["Surrealist imagery", "Expressionistic lighting", "Neorealist emotional grit", "Minimalist dialogue"],
+    "correctIndex": 2,
+    "explanation": "The film’s neorealist roots highlight Loren’s raw and grounded performance."
+  },
+  {
+    "id": "mv-351",
+    "title": "Marilyn Monroe demonstrated surprising dramatic depth in which 1961 film written by Arthur Miller?",
+    "options": ["Let’s Make Love", "River of No Return", "Niagara", "The Misfits"],
+    "correctIndex": 3,
+    "explanation": "The Misfits (1961) stands out as one of Monroe’s most layered screen performances."
+  },
+  {
+    "id": "mv-352",
+    "title": "Which martial-arts classic was Bruce Lee shooting additional material for before his death in 1973?",
+    "options": ["Enter the Dragon", "The Big Boss", "Game of Death", "Way of the Dragon"],
+    "correctIndex": 0,
+    "explanation": "Enter the Dragon released shortly after his death and became a global landmark."
+  },
+  {
+    "id": "mv-353",
+    "title": "Regina King’s breakout dramatic film moment came from playing whose onscreen spouse in Jerry Maguire (1996)?",
+    "options": ["Cuba Gooding Jr.", "Tom Cruise", "Jamie Foxx", "Terrence Howard"],
+    "correctIndex": 1,
+    "explanation": "King’s role centered around the emotional and financial stakes faced by Gooding’s character, Rod Tidwell."
+  },
+  {
+    "id": "mv-354",
+    "title": "Angelina Jolie received widespread acclaim for which 1999 psychological drama involving institutionalized women?",
+    "options": ["Changeling", "Foxfire", "Girl, Interrupted", "Gia"],
+    "correctIndex": 2,
+    "explanation": "Her Oscar-winning turn in Girl, Interrupted remains one of her most defining roles."
+  },
+  {
+    "id": "mv-355",
+    "title": "John Wayne won his only Academy Award for portraying Rooster Cogburn in which year?",
+    "options": ["1964", "1971", "1969", "1975"],
+    "correctIndex": 1,
+    "explanation": "Though True Grit released in 1969, Wayne received the award the following year ceremony cycle."
+  },
+  {
+    "id": "mv-356",
+    "title": "Which 1971 thriller is associated with Jane Fonda’s first Academy Award win?",
+    "options": ["They Shoot Horses, Don’t They?", "Coming Home", "Klute", "Julia"],
+    "correctIndex": 3,
+    "explanation": "Fonda’s role in Klute (1971) showcased her range within neo-noir storytelling."
+  },
+
+  {
+    "id": "mv-357",
+    "title": "Charlton Heston led which 1959 historical epic known for its iconic chariot sequence?",
+    "options": ["The Ten Commandments", "The Agony and the Ecstasy", "Ben-Hur", "El Cid"],
+    "correctIndex": 0,
+    "explanation": "Ben-Hur (1959) remains a cornerstone of large-scale Hollywood epics."
+  },
+  {
+    "id": "mv-358",
+    "title": "Which 1952 western earned Gary Cooper an Academy Award for Best Actor?",
+    "options": ["Sergeant York", "High Noon", "Vera Cruz", "The Virginian"],
+    "correctIndex": 2,
+    "explanation": "High Noon (1952) is widely regarded as Cooper’s defining performance."
+  },
+  {
+    "id": "mv-359",
+    "title": "Liv Ullmann’s collaborations with Ingmar Bergman often relied heavily on which cinematic technique?",
+    "options": ["Kinetic editing", "Documentary realism", "Psychological close-ups", "Rapid-fire dialogue"],
+    "correctIndex": 1,
+    "explanation": "Bergman’s camera often stays intensely close on Ullmann, highlighting interior emotion."
+  },
+  {
+    "id": "mv-360",
+    "title": "Natalie Portman’s Oscar-winning role in Black Swan (2010) demanded which notable performance element?",
+    "options": ["Singing without dubbing", "Training in ballet for months", "Performing sword choreography", "Speaking in three languages"],
+    "correctIndex": 3,
+    "explanation": "Portman trained extensively in ballet to embody the psychological strain of the role."
+  },
+  {
+    "id": "mv-361",
+    "title": "Forest Whitaker’s portrayal of Idi Amin in 2006 drew acclaim partly due to what acting choice?",
+    "options": ["Extremely minimal dialogue", "Improvised comedic beats", "Research into regional vocal cadence", "Method dieting for weight loss"],
+    "correctIndex": 2,
+    "explanation": "Whitaker studied Amin’s speech patterns closely to match both charisma and menace."
+  },
+
+  {
+    "id": "mv-362",
+    "title": "Sandra Bullock won the Academy Award for The Blind Side in which year?",
+    "options": ["2010", "2008", "2013", "2011"],
+    "correctIndex": 0,
+    "explanation": "Her 2009 film led to a 2010 win, marking a career milestone."
+  },
+  {
+    "id": "mv-363",
+    "title": "Deborah Kerr received six Oscar nominations without a win, culminating in which honor?",
+    "options": ["A BAFTA Tribute", "Kennedy Center Honors", "An Honorary Oscar", "AFI Lifetime Achievement Award"],
+    "correctIndex": 3,
+    "explanation": "Her Honorary Oscar recognized decades of acclaimed work."
+  },
+  {
+    "id": "mv-364",
+    "title": "Toshiro Mifune is most associated with which director’s samurai-centered filmography?",
+    "options": ["Yasujiro Ozu", "Takashi Miike", "Akira Kurosawa", "Hiroshi Teshigahara"],
+    "correctIndex": 1,
+    "explanation": "Mifune and Kurosawa’s 16-film partnership reshaped world cinema."
+  },
+  {
+    "id": "mv-365",
+    "title": "Dustin Hoffman’s 1988 collaboration with Tom Cruise resulted in which acclaimed drama?",
+    "options": ["Tootsie", "Rain Man", "The Graduate", "Kramer vs. Kramer"],
+    "correctIndex": 2,
+    "explanation": "Hoffman’s performance in Rain Man earned him significant accolades."
+  },
+  {
+    "id": "mv-366",
+    "title": "Emma Thompson received dual recognition for Sense and Sensibility (1995) due to what achievement?",
+    "options": ["Simultaneous acting and screenplay nominations", "Choreographing and performing dances", "Serving as producer only", "Performing all narration live"],
+    "correctIndex": 0,
+    "explanation": "Thompson won the Oscar for her adapted screenplay while starring in the film."
+  },
+
+  {
+    "id": "mv-367",
+    "title": "Joan Fontaine’s Oscar-winning performance in Suspicion (1941) is strengthened by which visual motif?",
+    "options": ["Overexposed dream sequences", "Shadows signaling paranoia", "Color symbolism", "Freeze-frame foreshadowing"],
+    "correctIndex": 1,
+    "explanation": "Hitchcock uses lighting and shadow to echo Lina’s growing fear."
+  },
+  {
+    "id": "mv-368",
+    "title": "Julianne Moore’s role in Magnolia (1999) is often praised for her handling of what element?",
+    "options": ["Action choreography", "Musical performance", "Emotional breakdown monologue", "Physical comedy"],
+    "correctIndex": 3,
+    "explanation": "Her emotionally volatile scenes expanded the film’s mosaic of grief."
+  },
+  {
+    "id": "mv-369",
+    "title": "Which early film showed Will Smith transitioning effectively from comedy to drama?",
+    "options": ["Bad Boys", "Hitch", "Six Degrees of Separation", "Shark Tale"],
+    "correctIndex": 2,
+    "explanation": "Six Degrees of Separation marked a major turning point in his dramatic range."
+  },
+  {
+    "id": "mv-370",
+    "title": "Sophia Loren starred alongside which leading man in the 1961 epic El Cid?",
+    "options": ["Charlton Heston", "Gregory Peck", "Alec Guinness", "Anthony Quinn"],
+    "correctIndex": 0,
+    "explanation": "Her chemistry with Heston served the film’s dramatic scale."
+  },
+  {
+    "id": "mv-371",
+    "title": "Marilyn Monroe first gained major film credibility through a small but memorable turn in which 1950 drama?",
+    "options": ["All About Eve", "How to Marry a Millionaire", "Gentlemen Prefer Blondes", "Bus Stop"],
+    "correctIndex": 3,
+    "explanation": "Her All About Eve role caught major studio attention."
+  },
+
+  {
+    "id": "mv-372",
+    "title": "Bruce Lee’s Big Boss (1971) was shot under challenging conditions in which country?",
+    "options": ["China", "Japan", "Thailand", "Korea"],
+    "correctIndex": 2,
+    "explanation": "The Thailand shoot contributed to the film’s gritty authenticity."
+  },
+  {
+    "id": "mv-373",
+    "title": "Regina King earned an Academy Award for which 2018 film directed by Barry Jenkins?",
+    "options": ["Moonlight", "If Beale Street Could Talk", "Southside with You", "Fences"],
+    "correctIndex": 0,
+    "explanation": "Her performance helped elevate the adaptation’s emotional stakes."
+  },
+  {
+    "id": "mv-374",
+    "title": "Angelina Jolie’s humanitarian commitments intensified following filming in which country for Tomb Raider (2001)?",
+    "options": ["Cambodia", "Morocco", "Australia", "Iceland"],
+    "correctIndex": 2,
+    "explanation": "Her Cambodia experience became foundational to her global advocacy."
+  },
+  {
+    "id": "mv-375",
+    "title": "John Wayne’s breakout as a major star began with which 1939 western?",
+    "options": ["Rio Bravo", "The Searchers", "Stagecoach", "Fort Apache"],
+    "correctIndex": 0,
+    "explanation": "Stagecoach established Wayne as a leading man across Hollywood."
+  },
+  {
+    "id": "mv-376",
+    "title": "Jane Fonda’s political activism became most publicly visible during which era?",
+    "options": ["1950s", "1970s", "1990s", "2010s"],
+    "correctIndex": 1,
+    "explanation": "Her antiwar activism in the 1970s generated extensive national debate."
+  },
+  {
+    "id": "mv-377",
+    "title": "Which early 1980s film marked Tom Cruise’s first on-screen appearance?",
+    "options": ["Taps", "Risky Business", "Endless Love", "Legend"],
+    "correctIndex": 2,
+    "explanation": "Cruise debuted in Endless Love (1981), appearing briefly but memorably."
+  },
+  {
+    "id": "mv-378",
+    "title": "Michelle Pfeiffer’s breakout leading role was associated with which 1980s crime film?",
+    "options": ["Tequila Sunrise", "Married to the Mob", "Scarface", "Dangerous Liaisons"],
+    "correctIndex": 0,
+    "explanation": "Her turn in Scarface (1983) showcased her command of complex, icy characters."
+  },
+  {
+    "id": "mv-379",
+    "title": "Faye Dunaway won her Academy Award for portraying an ambitious network executive in which film?",
+    "options": ["Chinatown", "Supergirl", "Network", "The Thomas Crown Affair"],
+    "correctIndex": 3,
+    "explanation": "Network (1976) remains one of Dunaway’s definitive portrayals."
+  },
+  {
+    "id": "mv-380",
+    "title": "Samuel L. Jackson’s signature role as Jules Winnfield was directed by which filmmaker?",
+    "options": ["Spike Lee", "Steven Spielberg", "Quentin Tarantino", "Michael Mann"],
+    "correctIndex": 1,
+    "explanation": "Tarantino’s Pulp Fiction (1994) made Jackson an international icon."
+  },
+  {
+    "id": "mv-381",
+    "title": "Peter O’Toole received his first Oscar nomination for which sweeping historical epic?",
+    "options": ["The Lion in Winter", "The Stunt Man", "Goodbye, Mr. Chips", "Lawrence of Arabia"],
+    "correctIndex": 1,
+    "explanation": "Lawrence of Arabia (1962) launched O’Toole’s meteoric rise."
+  },
+  {
+    "id": "mv-382",
+    "title": "Heath Ledger’s final completed role before his death was in which film?",
+    "options": ["Candy", "Brokeback Mountain", "The Dark Knight", "Two Hands"],
+    "correctIndex": 3,
+    "explanation": "The Dark Knight (2008) was finished before his final, partially shot film."
+  },
+  {
+    "id": "mv-383",
+    "title": "Nicole Kidman’s career breakthrough in the U.S. came from which taut ocean-set thriller?",
+    "options": ["Dead Calm", "To Die For", "Batman Forever", "Days of Thunder"],
+    "correctIndex": 0,
+    "explanation": "Dead Calm (1989) made Kidman a rising star in Hollywood."
+  },
+  {
+    "id": "mv-384",
+    "title": "Penélope Cruz’s enduring collaboration with which Spanish director began with Live Flesh (1997)?",
+    "options": ["Alejandro Amenábar", "Fernando Trueba", "Pedro Almodóvar", "Álex de la Iglesia"],
+    "correctIndex": 2,
+    "explanation": "Her work with Almodóvar helped elevate her to global stardom."
+  },
+  {
+    "id": "mv-385",
+    "title": "Chadwick Boseman first portrayed T’Challa in which MCU installment?",
+    "options": ["Avengers: Age of Ultron", "Black Panther", "Captain America: Civil War", "Iron Man 3"],
+    "correctIndex": 0,
+    "explanation": "Civil War (2016) introduced his incarnation of the character."
+  },
+  {
+    "id": "mv-386",
+    "title": "Antonio Banderas’ Hollywood debut required him to learn dialogue phonetically for which movie?",
+    "options": ["Philadelphia", "Evita", "The Mambo Kings", "Desperado"],
+    "correctIndex": 2,
+    "explanation": "The Mambo Kings (1992) introduced him to American audiences."
+  },
+
+  {
+    "id": "mv-387",
+    "title": "Sigourney Weaver’s iconic character Ripley first appeared in which 1979 film?",
+    "options": ["Aliens", "Alien 3", "Alien: Resurrection", "Alien"],
+    "correctIndex": 1,
+    "explanation": "Ridley Scott’s Alien launched Weaver as a sci-fi icon."
+  },
+  {
+    "id": "mv-388",
+    "title": "Salma Hayek earned her first Oscar nomination for portraying which historical figure?",
+    "options": ["Maria Felix", "Evita Perón", "Frida Kahlo", "Sor Juana Inés de la Cruz"],
+    "correctIndex": 2,
+    "explanation": "Her turn as Frida Kahlo in Frida (2002) remains career-defining."
+  },
+  {
+    "id": "mv-389",
+    "title": "Don Cheadle’s Oscar-nominated performance came from portraying a hotel manager during genocide in which film?",
+    "options": ["Rosewood", "Hotel Rwanda", "Crash", "Reign Over Me"],
+    "correctIndex": 1,
+    "explanation": "Hotel Rwanda (2004) showcased his powerful dramatic range."
+  },
+  {
+    "id": "mv-390",
+    "title": "Frances McDormand first collaborated with the Coen brothers in which neo-noir thriller?",
+    "options": ["Miller’s Crossing", "Blood Simple", "Raising Arizona", "Fargo"],
+    "correctIndex": 3,
+    "explanation": "Blood Simple (1984) marked her film debut and first Coen collaboration."
+  },
+  {
+    "id": "mv-391",
+    "title": "Kathy Bates won her Academy Award for portraying a fan-turned-captor in which adaptation?",
+    "options": ["Dolores Claiborne", "About Schmidt", "Misery", "Fried Green Tomatoes"],
+    "correctIndex": 0,
+    "explanation": "Misery (1990) remains one of the most memorable Stephen King adaptations."
+  },
+
+  {
+    "id": "mv-392",
+    "title": "Omar Sharif’s Hollywood breakthrough involved acting opposite Peter O’Toole in which film?",
+    "options": ["Doctor Zhivago", "Funny Girl", "Lawrence of Arabia", "The Night of the Generals"],
+    "correctIndex": 3,
+    "explanation": "His portrayal of Sherif Ali in Lawrence of Arabia earned him an Oscar nomination."
+  },
+  {
+    "id": "mv-393",
+    "title": "Amy Adams received her first Oscar nomination for which Southern-set indie drama?",
+    "options": ["Arrival", "Enchanted", "Junebug", "Doubt"],
+    "correctIndex": 1,
+    "explanation": "Junebug (2005) revealed her remarkable dramatic nuance."
+  },
+  {
+    "id": "mv-394",
+    "title": "Joaquin Phoenix’s Oscar-winning performance as a troubled clown came in which film?",
+    "options": ["The Master", "Walk the Line", "You Were Never Really Here", "Joker"],
+    "correctIndex": 2,
+    "explanation": "Joker (2019) earned Phoenix the Academy Award for Best Actor."
+  },
+  {
+    "id": "mv-395",
+    "title": "Mohanlal won a National Film Award for portraying an aging Kathakali artist in which movie?",
+    "options": ["Kireedam", "Manichitrathazhu", "Vaanaprastham", "Bharatham"],
+    "correctIndex": 0,
+    "explanation": "Vaanaprastham (1999) is widely regarded as one of his greatest performances."
+  },
+  {
+    "id": "mv-396",
+    "title": "Brad Pitt’s first major Oscar nomination came from portraying which historical outlaw?",
+    "options": ["Billy the Kid", "Jesse James", "Pat Garrett", "John Wesley Hardin"],
+    "correctIndex": 3,
+    "explanation": "His role as Jesse James garnered widespread acclaim."
+  },
+
+  {
+    "id": "mv-397",
+    "title": "Tom Cruise earned his first Oscar nomination for portraying a paralyzed Vietnam War veteran in which film?",
+    "options": ["The Color of Money", "Born on the Fourth of July", "Rain Man", "Magnolia"],
+    "correctIndex": 0,
+    "explanation": "Born on the Fourth of July (1989) marked a critical breakthrough."
+  },
+  {
+    "id": "mv-398",
+    "title": "Michelle Pfeiffer starred opposite Jeff Bridges and Beau Bridges in which jazz-infused drama?",
+    "options": ["Frankie & Johnny", "The Fabulous Baker Boys", "Tequila Sunrise", "Dangerous Liaisons"],
+    "correctIndex": 3,
+    "explanation": "The Fabulous Baker Boys (1989) earned her major award attention."
+  },
+  {
+    "id": "mv-399",
+    "title": "Faye Dunaway’s femme-fatale role in Chinatown was directed by whom?",
+    "options": ["Martin Scorsese", "Francis Ford Coppola", "Roman Polanski", "Arthur Penn"],
+    "correctIndex": 1,
+    "explanation": "Polanski’s direction shaped one of the greatest neo-noirs ever filmed."
+  },
+  {
+    "id": "mv-400",
+    "title": "Samuel L. Jackson first appeared as Nick Fury in the post-credits scene of which MCU launch film?",
+    "options": ["Iron Man", "The Incredible Hulk", "Iron Man 2", "Captain America: The First Avenger"],
+    "correctIndex": 2,
+    "explanation": "His cameo in Iron Man (2008) set up a new era of interconnected storytelling."
+  },
+  {
+    "id": "mv-401",
+    "title": "Peter O’Toole starred opposite Katharine Hepburn in which 1968 royal drama?",
+    "options": ["Becket", "Goodbye, Mr. Chips", "The Lion in Winter", "My Favorite Year"],
+    "correctIndex": 1,
+    "explanation": "His performance in The Lion in Winter gained critical acclaim."
+  },
+
+  {
+    "id": "mv-402",
+    "title": "Heath Ledger’s portrayal of Ennis Del Mar in which film earned him his first Oscar nomination?",
+    "options": ["Monster’s Ball", "Brokeback Mountain", "Ned Kelly", "The Brothers Grimm"],
+    "correctIndex": 3,
+    "explanation": "Brokeback Mountain (2005) showcased Ledger’s dramatic depth."
+  },
+  {
+    "id": "mv-403",
+    "title": "Nicole Kidman won her first Academy Award for which 2002 role?",
+    "options": ["The Hours", "Rabbit Hole", "To Die For", "Cold Mountain"],
+    "correctIndex": 0,
+    "explanation": "Her portrayal of Virginia Woolf in The Hours won Best Actress."
+  },
+  {
+    "id": "mv-404",
+    "title": "Penélope Cruz starred opposite Javier Bardem and Scarlett Johansson in which Woody Allen film?",
+    "options": ["Volver", "Vicky Cristina Barcelona", "Broken Embraces", "Jamón Jamón"],
+    "correctIndex": 1,
+    "explanation": "Her performance earned her an Academy Award."
+  },
+  {
+    "id": "mv-405",
+    "title": "Chadwick Boseman portrayed which legendary musician in Get on Up (2014)?",
+    "options": ["Sam Cooke", "James Brown", "Ray Charles", "Marvin Gaye"],
+    "correctIndex": 2,
+    "explanation": "His physicality and vocal mimicry earned high praise."
+  },
+  {
+    "id": "mv-406",
+    "title": "Antonio Banderas earned a Best Actor Oscar nomination for portraying a filmmaker in which Almodóvar film?",
+    "options": ["Tie Me Up! Tie Me Down!", "Pain and Glory", "Matador", "The Skin I Live In"],
+    "correctIndex": 1,
+    "explanation": "Pain and Glory (2019) marked a career-high dramatic turn."
+  },
+  {
+    "id": "mv-407",
+    "title": "Moonlight (2016) tells Chiron’s story across how many chapters?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 1,
+    "explanation": "The film is divided into three chronological chapters."
+  },
+  {
+    "id": "mv-408",
+    "title": "In Manchester by the Sea (2016), why does Lee return to his hometown?",
+    "options": ["To sell his family home", "To become guardian of his nephew", "To attend a wedding", "To recover from an injury"],
+    "correctIndex": 1,
+    "explanation": "He learns he has been named guardian of his nephew Patrick."
+  },
+  {
+    "id": "mv-409",
+    "title": "I Am Not Your Negro (2016) is based on whose unfinished manuscript?",
+    "options": ["James Baldwin", "Maya Angelou", "Langston Hughes", "Richard Wright"],
+    "correctIndex": 0,
+    "explanation": "It draws from Baldwin’s unfinished 'Remember This House.'"
+  },
+  {
+    "id": "mv-410",
+    "title": "La La Land (2016) follows Mia and Sebastian as they pursue careers in what field?",
+    "options": ["Medicine", "Technology", "Entertainment", "Politics"],
+    "correctIndex": 2,
+    "explanation": "Both characters are striving for success in the arts."
+  },
+  {
+    "id": "mv-411",
+    "title": "Toni Erdmann (2016) revolves around a father who adopts an alter ego to reconnect with whom?",
+    "options": ["His ex-wife", "His business partner", "His daughter", "His brother"],
+    "correctIndex": 2,
+    "explanation": "Winfried uses his persona ‘Toni’ to approach his daughter Ines."
+  },
+  {
+    "id": "mv-412",
+    "title": "One More Time with Feeling (2016) documents the creation of which album?",
+    "options": ["Skeleton Tree", "Push the Sky Away", "Let Love In", "Abattoir Blues"],
+    "correctIndex": 0,
+    "explanation": "It chronicles the making of Nick Cave & the Bad Seeds’ 'Skeleton Tree.'"
+  },
+  {
+    "id": "mv-413",
+    "title": "Tower (2016) revisits the 1966 shooting at which university?",
+    "options": ["University of Texas", "UCLA", "Harvard University", "University of Michigan"],
+    "correctIndex": 0,
+    "explanation": "It retells the UT Austin tower shooting using animation and testimony."
+  },
+  {
+    "id": "mv-414",
+    "title": "Only Yesterday (2016 U.S. release) follows Taeko as she travels from Tokyo to where?",
+    "options": ["Kyoto", "Okinawa", "Hokkaido", "The countryside"],
+    "correctIndex": 3,
+    "explanation": "She visits relatives in rural Japan, sparking deep reflection."
+  },
+  {
+    "id": "mv-415",
+    "title": "Paths of the Soul (2016) focuses on a Tibetan group performing what type of pilgrimage?",
+    "options": ["Silent meditation walk", "Bowing pilgrimage", "Mountain pilgrimage", "Water blessing pilgrimage"],
+    "correctIndex": 1,
+    "explanation": "They undertake a 1,200-mile prostration pilgrimage to Lhasa."
+  },
+  {
+    "id": "mv-416",
+    "title": "Paterson (2016) centers on a poet who works as what?",
+    "options": ["Firefighter", "Taxi driver", "Bus driver", "Janitor"],
+    "correctIndex": 2,
+    "explanation": "Paterson drives a city bus while quietly writing poetry."
+  },
+  {
+    "id": "mv-417",
+    "title": "The Fits (2016) follows Toni as she transitions from boxing to what activity?",
+    "options": ["Ballet", "Swimming", "Dance team", "Track and field"],
+    "correctIndex": 2,
+    "explanation": "She becomes fascinated with a competitive dance team."
+  },
+  {
+    "id": "mv-418",
+    "title": "Elle (2016) centers on Michèle, who runs a company in what industry?",
+    "options": ["Fashion", "Construction", "Video games", "Retail"],
+    "correctIndex": 2,
+    "explanation": "Michèle is the head of a successful video game company."
+  },
+  {
+    "id": "mv-419",
+    "title": "Cameraperson (2016) is composed of footage shot across how many years?",
+    "options": ["Ten", "Fifteen", "Twenty-five", "Forty"],
+    "correctIndex": 2,
+    "explanation": "It assembles footage from Kirsten Johnson’s 25-year career."
+  },
+  {
+    "id": "mv-420",
+    "title": "Things to Come (2016) follows Nathalie, who works as what?",
+    "options": ["Painter", "Philosophy teacher", "Chef", "Photographer"],
+    "correctIndex": 1,
+    "explanation": "Nathalie teaches philosophy in Paris."
+  },
+  {
+    "id": "mv-421",
+    "title": "Hell or High Water (2016) centers on two brothers who resort to what activity?",
+    "options": ["Cattle smuggling", "Bank robbing", "Oil drilling", "Gambling"],
+    "correctIndex": 1,
+    "explanation": "They rob banks to save their family land."
+  },
+  {
+    "id": "mv-422",
+    "title": "In Aquarius (2016), Clara refuses to leave what location?",
+    "options": ["Her music studio", "Her childhood home", "Her publisher’s office", "Her apartment building"],
+    "correctIndex": 3,
+    "explanation": "She is the last resident of the Aquarius building."
+  },
+  {
+    "id": "mv-423",
+    "title": "Cemetery of Splendor (2016) is set in a clinic repurposed from what?",
+    "options": ["A church", "A school", "A hotel", "A military base"],
+    "correctIndex": 1,
+    "explanation": "The clinic was once a school building."
+  },
+  {
+    "id": "mv-424",
+    "title": "Newtown (2016) focuses on the aftermath of a tragedy that occurred at which type of location?",
+    "options": ["A mall", "A university", "An elementary school", "A movie theater"],
+    "correctIndex": 2,
+    "explanation": "It examines the community impacted by the Sandy Hook shooting."
+  },
+  {
+    "id": "mv-425",
+    "title": "Fire at Sea (2016) takes place primarily on which island?",
+    "options": ["Crete", "Lampedusa", "Sicily", "Corsica"],
+    "correctIndex": 1,
+    "explanation": "The island of Lampedusa is central to its story."
+  },
+  {
+    "id": "mv-426",
+    "title": "Love & Friendship (2016) is based on the writing of which author?",
+    "options": ["Jane Austen", "Charlotte Brontë", "George Eliot", "Mary Shelley"],
+    "correctIndex": 0,
+    "explanation": "It adapts Austen’s novella 'Lady Susan.'"
+  },
+  {
+    "id": "mv-427",
+    "title": "My Golden Days (2016) revisits the youth of which returning character?",
+    "options": ["Mathieu Amalric's Paul", "Vincent Cassel's Alex", "Denis Lavant's Denis", "Lambert Wilson's Charles"],
+    "correctIndex": 0,
+    "explanation": "It follows Paul Dédalus, also featured in Desplechin’s earlier film."
+  },
+  {
+    "id": "mv-428",
+    "title": "Krisha (2016) takes place during which holiday?",
+    "options": ["Christmas", "Easter", "Thanksgiving", "New Year’s Day"],
+    "correctIndex": 2,
+    "explanation": "The film’s events unfold on Thanksgiving Day."
+  },
+  {
+    "id": "mv-429",
+    "title": "Little Men (2016) shows a friendship strained by what conflict?",
+    "options": ["Money theft", "A rent dispute", "Custody battle", "Immigration issues"],
+    "correctIndex": 1,
+    "explanation": "A rent dispute between parents threatens the boys’ bond."
+  },
+  {
+    "id": "mv-430",
+    "title": "Moonlight (2016) prominently features which city as its setting?",
+    "options": ["Chicago", "Miami", "New Orleans", "Atlanta"],
+    "correctIndex": 1,
+    "explanation": "The film is set in Miami’s Liberty City."
+  },
+  {
+    "id": "mv-431",
+    "title": "In Manchester by the Sea (2016), what sport is a central part of Patrick’s life?",
+    "options": ["Soccer", "Baseball", "Hockey", "Basketball"],
+    "correctIndex": 2,
+    "explanation": "Patrick plays on a school hockey team."
+  },
+  {
+    "id": "mv-432",
+    "title": "La La Land (2016) opens with a musical number set where?",
+    "options": ["A subway station", "A freeway traffic jam", "A nightclub", "A movie studio"],
+    "correctIndex": 1,
+    "explanation": "The film famously opens with a dance number on a jammed freeway ramp."
+  },
+  {
+    "id": "mv-433",
+    "title": "Elle (2016) is directed by which filmmaker?",
+    "options": ["Claire Denis", "Michael Haneke", "Paul Verhoeven", "Olivier Assayas"],
+    "correctIndex": 2,
+    "explanation": "Paul Verhoeven directed the thriller."
+  },
+  {
+    "id": "mv-434",
+    "title": "Paterson (2016) often shows the protagonist writing what?",
+    "options": ["Short stories", "Poetry", "Screenplays", "Letters"],
+    "correctIndex": 1,
+    "explanation": "Paterson quietly composes poems in his notebook."
+  },
+  {
+    "id": "mv-435",
+    "title": "Aquarius (2016) stars which acclaimed Brazilian actress?",
+    "options": ["Fernanda Montenegro", "Sonia Braga", "Alice Braga", "Marieta Severo"],
+    "correctIndex": 1,
+    "explanation": "Sonia Braga plays Clara."
+  },
+  {
+    "id": "mv-436",
+    "title": "Hell or High Water (2016) features Jeff Bridges as what character type?",
+    "options": ["FBI agent", "Texas Ranger", "Private detective", "Sheriff"],
+    "correctIndex": 1,
+    "explanation": "He plays Marcus Hamilton, a Texas Ranger tracking the robbers."
+  }
 ]
