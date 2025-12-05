@@ -3314,5 +3314,215 @@
     "options": ["FBI agent", "Texas Ranger", "Private detective", "Sheriff"],
     "correctIndex": 1,
     "explanation": "He plays Marcus Hamilton, a Texas Ranger tracking the robbers."
+  },
+  {
+    "id": "mv-437",
+    "title": "In Carol (2015), where do Carol and Therese first meet?",
+    "options": ["A café", "A train station", "A bookstore", "A department store"],
+    "correctIndex": 3,
+    "explanation": "Therese works in the toy section of a department store."
+  },
+  {
+    "id": "mv-438",
+    "title": "In 45 Years (2015), what triggers the marital tension?",
+    "options": ["A financial crisis", "A letter about a past lover", "A long-lost diary", "A family argument"],
+    "correctIndex": 1,
+    "explanation": "A letter informs Geoff about the discovery of his former lover's preserved body."
+  },
+  {
+    "id": "mv-439",
+    "title": "Inside Out (2015) begins with which emotion appearing first?",
+    "options": ["Joy", "Sadness", "Fear", "Anger"],
+    "correctIndex": 0,
+    "explanation": "Joy is the very first emotion Riley experiences at birth."
+  },
+  {
+    "id": "mv-440",
+    "title": "Sherpa (2015) depicts conflict between Western climbers and Sherpas during which season?",
+    "options": ["2012", "2016", "2013", "2011"],
+    "correctIndex": 2,
+    "explanation": "The confrontation occurred in the 2013 climbing season."
+  },
+  {
+    "id": "mv-441",
+    "title": "Hard to Be a God (2015) takes place on the planet Arkanar, which is stuck in which societal stage?",
+    "options": ["Renaissance", "Bronze Age", "Medieval", "Industrial"],
+    "correctIndex": 2,
+    "explanation": "Arkanar resembles a violent medieval world."
+  },
+  {
+    "id": "mv-442",
+    "title": "Spotlight (2015) portrays journalists focusing on abuses in which city?",
+    "options": ["Boston", "New York", "Chicago", "Philadelphia"],
+    "correctIndex": 0,
+    "explanation": "The investigation takes place in Boston."
+  },
+  {
+    "id": "mv-443",
+    "title": "Timbuktu (2015) shows villagers struggling under what type of imposed rules?",
+    "options": ["Secular military laws", "Religious extremism", "Economic sanctions", "Foreign occupation"],
+    "correctIndex": 1,
+    "explanation": "The town is controlled by Islamist extremists."
+  },
+  {
+    "id": "mv-444",
+    "title": "The Look of Silence (2015) features Adi confronting perpetrators of genocide through what means?",
+    "options": ["Recorded interviews", "Court testimonies", "Secret letters", "Eye examinations"],
+    "correctIndex": 3,
+    "explanation": "Adi is an optometrist and confronts killers during eye tests."
+  },
+  {
+    "id": "mv-445",
+    "title": "Son of Saul (2015) focuses on a member of which group?",
+    "options": ["Sonderkommando", "Gestapo", "SS guards", "Medical staff"],
+    "correctIndex": 0,
+    "explanation": "Saul belongs to the Sonderkommando unit."
+  },
+  {
+    "id": "mv-446",
+    "title": "Taxi (2015) by Jafar Panahi was filmed primarily using what?",
+    "options": ["Hidden cameras", "Handheld DSLR", "Phone cameras", "Dashboard cameras"],
+    "correctIndex": 1,
+    "explanation": "The filming approach resembles fixed dashboard camera recordings."
+  },
+  {
+    "id": "mv-447",
+    "title": "Mad Max: Fury Road (2015) mainly follows a chase across which environment?",
+    "options": ["Forest", "Mountain pass", "Desert wasteland", "Swamp"],
+    "correctIndex": 2,
+    "explanation": "The story takes place across a vast post-apocalyptic desert."
+  },
+  {
+    "id": "mv-448",
+    "title": "Gett (2015) showcases Viviane’s struggle obtaining what?",
+    "options": ["A passport", "Custody of her son", "A work permit", "A divorce"],
+    "correctIndex": 3,
+    "explanation": "She seeks a divorce requiring her husband’s consent."
+  },
+  {
+    "id": "mv-449",
+    "title": "Gangs of Wasseypur chronicles crime conflicts involving control over which resource?",
+    "options": ["Textiles", "Real estate", "Coal", "Water"],
+    "correctIndex": 1,
+    "explanation": "The coal industry is central to the decades-long feud."
+  },
+  {
+    "id": "mv-450",
+    "title": "Phoenix (2015) centers on Nelly returning home after surviving what?",
+    "options": ["A car crash", "A concentration camp", "A revolution", "A prison sentence"],
+    "correctIndex": 0,
+    "explanation": "She undergoes reconstruction after severe injuries suffered during the war."
+  },
+  {
+    "id": "mv-451",
+    "title": "Western (2015) focuses on relations between people in a Texas town and a town across the border in which country?",
+    "options": ["Canada", "Guatemala", "Mexico", "Cuba"],
+    "correctIndex": 2,
+    "explanation": "The film examines the connection between Eagle Pass and Piedras Negras, Mexico."
+  },
+  {
+    "id": "mv-452",
+    "title": "Anomalisa (2015) tells the story of a man who writes about what subject?",
+    "options": ["Cooking", "Customer service", "Finance", "Relationships"],
+    "correctIndex": 3,
+    "explanation": "Michael Stone is famous for his work on customer service yet struggles with connection."
+  },
+  {
+    "id": "mv-453",
+    "title": "Democrats (2015) documents the drafting of a constitution in which African nation?",
+    "options": ["Kenya", "Zimbabwe", "Rwanda", "Ethiopia"],
+    "correctIndex": 1,
+    "explanation": "The film follows Zimbabwe’s divided political struggle."
+  },
+  {
+    "id": "mv-454",
+    "title": "Brooklyn (2015) follows Eilis as she emigrates from Ireland to which city?",
+    "options": ["London", "Boston", "Chicago", "New York"],
+    "correctIndex": 0,
+    "explanation": "Eilis begins her journey departing from Ireland."
+  },
+  {
+    "id": "mv-455",
+    "title": "Out 1 (2015 restoration) depicts theater groups rehearsing works derived from which playwright?",
+    "options": ["Aeschylus", "Shakespeare", "Sophocles", "Molière"],
+    "correctIndex": 2,
+    "explanation": "The rehearsals reinterpret classical material including Aeschylus."
+  },
+  {
+    "id": "mv-456",
+    "title": "Of Men and War (2015) focuses on veterans coping with what issue?",
+    "options": ["Addiction", "Homelessness", "Traumatic brain injuries", "PTSD"],
+    "correctIndex": 3,
+    "explanation": "The documentary follows therapy for posttraumatic stress disorder."
+  },
+  {
+    "id": "mv-457",
+    "title": "About Elly (2015 release) begins with a group trip to which setting?",
+    "options": ["A mountain cabin", "A desert retreat", "A beachside location", "An island"],
+    "correctIndex": 0,
+    "explanation": "The journey is meant as a relaxing coastal getaway."
+  },
+  {
+    "id": "mv-458",
+    "title": "The Diary of a Teenage Girl (2015) is set during which decade?",
+    "options": ["1980s", "1950s", "1960s", "1970s"],
+    "correctIndex": 1,
+    "explanation": "The film takes place in 1970s San Francisco."
+  },
+  {
+    "id": "mv-459",
+    "title": "Listen to Me Marlon (2015) uses what type of archival source?",
+    "options": ["Photography archives", "Public speeches", "Handwritten journals", "Personal audio recordings"],
+    "correctIndex": 2,
+    "explanation": "Brando recorded extensive personal audio reflections."
+  },
+  {
+    "id": "mv-460",
+    "title": "The Duke of Burgundy (2015) explores a relationship featuring rituals between two women fascinated by what?",
+    "options": ["Marine biology", "Entomology", "Botany", "Herpetology"],
+    "correctIndex": 3,
+    "explanation": "The film features characters studying insects."
+  },
+  {
+    "id": "mv-461",
+    "title": "Carol (2015) features Carol battling which personal challenge?",
+    "options": ["Losing her job", "Her husband’s custody threat", "Financial crisis", "Illness"],
+    "correctIndex": 1,
+    "explanation": "Her husband challenges her parental rights."
+  },
+  {
+    "id": "mv-462",
+    "title": "Spotlight (2015) earned praise for exposing wrongdoing inside which system?",
+    "options": ["Banking", "Political campaigns", "Schools", "Catholic Church"],
+    "correctIndex": 0,
+    "explanation": "The investigation revealed systemic church abuse."
+  },
+  {
+    "id": "mv-463",
+    "title": "Timbuktu (2015) bans townspeople from participating in which everyday activity?",
+    "options": ["Bicycling", "Soccer", "Reading", "Cooking outdoors"],
+    "correctIndex": 2,
+    "explanation": "They forbid activities such as playing music and soccer."
+  },
+  {
+    "id": "mv-464",
+    "title": "Anomalisa (2015) depicts Michael hearing everyone speak with the same voice except whom?",
+    "options": ["His wife", "Lisa", "His coworker", "His son"],
+    "correctIndex": 3,
+    "explanation": "Lisa is the first person who sounds distinct to him."
+  },
+  {
+    "id": "mv-465",
+    "title": "Brooklyn (2015) shows Eilis living in what type of arrangement?",
+    "options": ["College dorm", "Women's boarding house", "Apartment with relatives", "Hotel"],
+    "correctIndex": 1,
+    "explanation": "She stays in a boarding house run by a strict landlady."
+  },
+  {
+    "id": "mv-466",
+    "title": "The Look of Silence (2015) uniquely frames confrontations during what kind of interaction?",
+    "options": ["School lessons", "Community meetings", "Medical consultations", "Workplace interviews"],
+    "correctIndex": 0,
+    "explanation": "Adi’s optometry exams serve as a setting for moral confrontation."
   }
 ]
